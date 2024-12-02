@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://simengli1998.github.io/sitemap.xml
