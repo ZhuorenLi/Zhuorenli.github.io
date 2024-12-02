@@ -1,0 +1,49 @@
+---
+---
+
+
+<div class="grid-sizer col-lg-12 isotope-item pubtype-4"  >
+
+
+
+    <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+
+
+        {% if entry.refs %}
+        <div class="article-title">
+            {{ entry.refs }}
+        </div>
+        {% endif %}
+
+        <div>
+            <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+            <!-- Author start-->
+            {% if entry.authors_text %}
+                <span class="article-authors"> {{ entry.authors_text }}, </span>
+            {% endif %}
+            <!-- Author end-->
+
+            {% comment %}{% if entry.year %}({{ entry.year }}).{% endif %}{% endcomment %}
+
+
+            <span class="article-title"> {{ entry.title }}. </span>
+            {% if entry.place %}
+                <span> {{ entry.place }}. </span>
+            {% endif %}
+
+
+            {% if entry.pdf %}
+                <p>
+                    <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ entry.pdf }}" target="_blank" rel="noopener">
+                        PDF
+                    </a>
+                </p>
+            {% endif %}
+
+        </div>
+
+    </div>
+
+</div>
+

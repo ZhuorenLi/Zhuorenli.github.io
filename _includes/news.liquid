@@ -1,0 +1,47 @@
+
+  {% if site.news != blank %}
+    {% assign news_size = site.news | size %}
+        {% assign news = site.news | reverse %}
+        {% if include.limit and site.announcements.limit %}
+          {% assign news_limit = site.announcements.limit %}
+        {% else %}
+          {% assign news_limit = news_size %}
+        {% endif %}
+        {% for item in news limit: news_limit %}
+         
+          
+            <div class="new_item">
+              {% if item.img %}
+                {%
+                  include figure.liquid
+                  loading="eager"
+                  path=item.img
+                  sizes = "250px"
+                  alt="item thumbnail"
+                  class="card-img-top"
+                %}
+              {% endif %}
+              <div class="new_item_card-body">
+                <a href="{{ item.url | relative_url }}">
+                <h2 class="new_item_card-title">{{ item.title }}</h2>
+                </a>
+                <p class="new_item_card-text">{{ item.description }}</p>
+
+                <div> {{ item.date | date: '%b %d, %Y' }}</div>
+               
+              </div>
+              </div>
+            
+         
+         
+        {% endfor %}
+       
+
+
+  {% endif %}
+
+
+
+    
+
+
