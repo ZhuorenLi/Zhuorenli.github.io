@@ -2,114 +2,80 @@
 layout: page
 title: "Optimization-based Motion Planning"
 description: "Smooth, stable and fast motion planning based on optimization-based approaches. (From Sept 2021 to Jun 2023)"
-img: assets/img/researches/r1_1.png
+img: /assets/img/researches/optimization/featured.png
 importance: 1
 category: work
 related_publications: false
 horizontal: true
 ---
 
-## Introduction
+## **Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability** 
 
-The objective of my research is to develop a recommendation system (RS) driven by Large Language Models (LLMs) to provide more personalized and human-centric services across various downstream applications such as music recommendation, product recommendation, app recommendation, and movie recommendation. Conventional Recommendation Models (CRMs) face significant limitations, including a lack of open-domain world knowledge and insufficient explainability of recommendations.
+### **Motivation**
+**Unstable and Unsmooth motion in Uncertainty Environment:**
+- Since there is a high-dimensional state/action modeling and the solution process considers the motion evolution of others, both POMDP and game-theory are easy to fall into the dimensionality problem, which makes the algorithm difficult to solve.
+- Most existing studies consider decision making and planning/control separately, simple decision results may not be effectively utilized by planning, which tends to make the solution process of motion planning time-consuming, or the planning unable to reach decision expectations, trajectory shaking and even solving failure in dealing with complex scenarios
 
-The emergence of large foundation models, particularly LLMs, offers promising and universal insights for addressing challenging problems in the data mining field. These models demonstrate impressive general intelligence across various language processing tasks due to their extensive memory of open-world knowledge, logical and commonsense reasoning capabilities, and awareness of human society and culture. By leveraging natural language as a universal information carrier, LLMs can integrate, exploit, and interpret knowledge across different forms, modalities, domains, and platforms. [1]
+![png](/assets/img/researches/optimization/pomdpframe.png) 
 
-My research interest aims to explore the incorporation of LLMs into recommender systems to overcome the inherent drawbacks of CRMs by utilizing LLMs' common knowledge and reasoning abilities. The goal is to enhance the performance and user experience of recommendation systems, making them more intelligent, explainable, and effective in understanding and catering to user needs across various application domains.
+An integrated framework of decision-making and motion planning for autonomous driving focus on the lane change/keeping maneuvers. Firstly, we design a belief POMDP decision planner while building the uncertainty of the prediction trajectories. Through the Multi-policy forward solution, getting the optimal decision action and the corresponding future states with the consideration of the uncertainty risk for surrounding vehicles. Then, based on the decision results of lateral semantic behavior and longitudinal continuous acceleration, we build drivable corridors including the reference state and the related boundary constraints, which provide better suited information for planning to solve the optimal motion sequence more quickly and stably, and improve its consistency with decision module. Finally, we consider the vehicle dynamics and introduce some soft constraints to solve the optimal motion trajectory.
+![png](/assets/img/researches/optimization/corridor.png)   
 
----
+### **Highlights**
+- Able to make oscillation-free behavior decisions given biased prediction.
+- Able to cut through in the traffic efficiently and safely when being in squeezed. 
+- Able to accelerate computation efficiency by building a state transfer model based on prediction uncertainty
+- ble to reduce the dissonance between decision-making and motion planning.
 
-## Literature Review
+### **Some Reults**
+![png](/assets/img/researches/optimization/cutinresult.png)
+![png](/assets/img/researches/optimization/overtakeresult11.png)
+![png](/assets/img/researches/optimization/overtakeresult12.png)
 
-Recently, RS researchers and practitioners have made pioneering attempts to employ Large Language Models (LLMs) in current recommendation pipelines, achieving notable progress in enhancing the performance of various canonical recommendation processes such as feature modeling and ranking. Several survey works delve into the potential of LLMs for general recommender systems:
+Able to recat to deceleration in advanced in cut-in scenario with smoother acceleration and speed changes.
+In overtaking scenario, it able to overtake continuously with smoother lane-change driving way. It is also capable of avoiding possible lane-change failures and potential risks associated with reckless lane-change maneuver through uncertainty characterization.
 
-- **Wu et al.** [2]: A review on both discriminative and generative LLMs for recommendation with different tuning strategies.
-- **Fan et al.** [3]: Focus on the pretraining, finetuning, and prompting approaches when leveraging LLMs for recommendation.
-- **Huang et al.** [4]: Investigate recommendation foundation models from aspects of both different model types and various downstream tasks.
-
-According to the research of previous scholars and the current state-of-the-art [1,5], there are three primary approaches for LLM-driven recommendation systems:
-
-1. **Sequential Integration of LLM and RS (Serial Approach)**  
-2. **LLM as a Replacement for Traditional RS Architecture (LLM as RS)**  
-3. **Fusion of LLM and RS (Fusion Approach)**  
-
-
-### Approach 1: Sequential Integration of LLM and RS
-
-This approach involves using LLMs to process upstream data before inputting it into the recommendation system for final ranking and decision-making. There are two main paradigms:
-
-- **LLM Embeddings + RS**: LLM generates embeddings for items and users, which are then input into the recommendation system.  
-  *Example*: Xiaohongshu's "NoteLLM: A Retrievable Large Language Model for Note Recommendation" [6]  
-
-- **LLM Tokens + RS**: LLM processes raw text data from users and items directly and then passes the processed results to the recommendation system.  
-  *Example*: Huawei's "CTRL: Connect Collaborative and Language Model for CTR Prediction" [7]  
-
-![Sequential Integration Approach](/assets/img/researches/r1_1.png)
+Real Test with our autonomous electric vehicle platform:
+![png](/assets/img/researches/optimization/realtestandvehicle.png)
+![png](/assets/img/researches/optimization/realresult.png)
 
 
-### Approach 2: LLM as RS
 
-In this approach, LLMs are used directly as recommendation systems. This method leverages the generative capabilities of LLMs by constructing detailed prompts and instructions, enabling the LLM to generate recommendations based on user and item information.  
-*Example*: Meta's "Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations" [8]  
+## **Mixed Integer Programming with Hybrid Model Predictive Control**
+Collaborating student: *Encheng Tu, 3rd-year Graduated Student*.
 
-<img src="/assets/img/researches/r1_2.png" alt="LLM as RS Approach" width="85%" style="display: block; margin: auto;">
-<img src="/assets/img/researches/r1_3.png" alt="LLM Workflow Diagram" width="85%" style="display: block; margin: auto;">
+### **Motivation**
+- Try to directly integrate the semantic behavior decision, trajectroy planning and motion control into a single optimal problem.
 
+An integrated motion planning scheme for autonomous vehicles, which incorporates integer lane state and its logical constraints into the Model Predictive Control (MPC) framework, forming a hybrid MPC-based motion planning framework. 
 
-### Approach 3: Fusion of LLM and RS
+### **Highlights**
+- Motion planning without semantic decisions: a hybrid model predictive control (HMPC)-based seamless motion planner.
+- Able to integrate with external semantic decisions to achieve comprehensive optimization based on the external decisions.
 
-This approach addresses both the "WHERE" and "HOW" questions of integrating LLMs into RS:
+### **Some Results**
+It allows for more efficient lane changing maneuvers in some scenarios wiith more rational lane-changing timing.
+![png](/assets/img/researches/optimization/HMPCresult.png)
 
-- **WHERE**: Discusses the roles that LLMs could play at different stages of the recommendation system pipeline, from data collection to the recommendation pipeline controller. Modern deep learning-based recommender systems can be characterized as an information cycle encompassing six key stages:
-  1. Data Collection: Gathering user feedback data.
-  2. Feature Engineering: Preparing and processing the collected raw data.
-  3. Feature Encoder: Transforming data features into neural embeddings.
-  4. Scoring/Ranking Function: Selecting and ordering the recommended items.
-  5. User Interaction: Determining how users engage with the recommendations.
-  6. Recommendation Pipeline Controller: Serving as the central mechanism tying all the stages together in a cohesive process.
+## **Trajectory Planning and Tracking Control Based on Hierarchical MPC**
 
-- **HOW**: Centers on how to adapt LLMs for RS, with two orthogonal taxonomy criteria:
-  1. **Parameter Freezing**: Whether to freeze the parameters of the LLM during the training phase.
-  2. **Involvement of CRM**: Whether to involve conventional recommendation models (CRM) during the inference phase.
+A unified framework of trajectory planning and tracking control for autonomous overtaking, which is formed by hierarchical model predictive control, optimizing the lateral and longitudinal movement in two successive steps.
 
----
+### **Highlights**
+- A unified trajectory planning and tracking control framework for autonomous overtaking using hierarchical MPC.
+- Safety corridor generation on ST-Graph with different behavior mode.
 
-## Research Plan
+### **Some Reults**
+It is able to perform smoothly driving maneuvers such as cornering and overtaking in CARLA simulation.
+![png](/assets/img/researches/optimization/MPC1.png)
+![png](/assets/img/researches/optimization/MPC2.png)
 
-<img src="/assets/img/researches/r1_4.png" alt="Research Plan Diagram" width="90%" style="display: block; margin: auto;">
+## **Published paper:**
+1. Zhuoren Li, Jia Hu, Bo Leng, et.al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," IEEE Trans. Intell. Transp. Syst., early access, 2023.
+2. Zhuoren Li, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in Proc. IEEE Int. Intell. Transp. Syst., 2022, pp. 937-944.
+3. Chengen Tu, Zhuoren Li, Bo Leng and Lu Xiong, "A Seamless Motion Planning Integrating Maneuver Decision Based on Hybrid Model Predictive Control," in Proc. IEEE Int. Intell. Transp. Syst., 2023.
 
-1. **Comparison of LLM+RS Research Paradigms**  
-   - Conduct a comparative analysis of the three mainstream LLM+RS research approaches: sequential integration, LLM as RS, and fusion of LLM and RS.  
-   - Perform experimental comparisons to evaluate the strengths and limitations of each approach.  
-   - Establish effective evaluation criteria to assess the performance and suitability of these approaches.
-
-2. **Exploring Solutions to Current RS Drawbacks with LLM Integration**  
-   Investigate whether the integration of LLMs can address the current limitations of recommendation systems, such as:  
-   - How can LLMs help solve the cold start problem and improve recommendation performance for new users or new content?  
-   - Can LLMs help mitigate the information cocoons effect and expand user interests?  
-   - How can LLMs facilitate the effective recommendation of non-popular, long-tail content?  
-   - In what ways can LLMs enhance the understanding of complex user intentions and contexts?  
-   - How can LLM-driven recommendation systems provide more explainable recommendations to users?  
-
-3. **Downstream Applications of LLM+RS Systems**  
-   - Explore how LLM+RS systems can influence product diversity sales and the long-tail effect.  
-   - Investigate the potential of LLM+RS systems to facilitate cross-business and cross-company recommendations.  
-   - Study how LLM+RS systems can integrate data from different business lines to provide a more comprehensive user profile.  
-   - Utilize LLMs to deeply understand user behavior and decision-making processes in recommendation systems.  
-   - Ensure that LLM-driven recommendation systems adhere to ethical standards and promote fairness:  
-     - How can LLM+RS systems balance personalization and social diversity in recommendations?  
-     - Can LLMs help reduce biases related to gender, race, and other factors in recommendation systems?  
-   - Explore the feasibility of LLM+RS systems for recommendations across platforms, regions, fields, and languages.
-
----
-
-## References
-
-1. [https://arxiv.org/pdf/2306.05817](https://arxiv.org/pdf/2306.05817)  
-2. Likang Wu et al. 2023. A Survey on Large Language Models for Recommendation. *arXiv preprint arXiv:2305.19860 (2023).*  
-3. Wenqi Fan et al. 2023. Recommender Systems in the Era of Large Language Models (LLMs). *arXiv:2307.02046 [cs.IR]*  
-4. Chengkai Huang et al. 2024. Foundation Models for Recommender Systems: A Survey and New Perspectives. *arXiv preprint arXiv:2402.11143 (2024).*  
-5. [https://arxiv.org/pdf/2305.19860](https://arxiv.org/pdf/2305.19860)  
-6. [https://arxiv.org/pdf/2403.01744](https://arxiv.org/pdf/2403.01744)  
-7. [https://arxiv.org/pdf/2306.02841](https://arxiv.org/pdf/2306.02841)  
-8. [https://arxiv.org/abs/2402.17152](https://arxiv.org/abs/2402.17152)
+## **Paper in Preparation:**
+1. Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better.“” (Preparing to submit IEEE Trans. Transp. Electrif.)
+2. Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way." (under review of IEEE Trans. Intell. Vehicles)
+3. Bo Leng, Ran Yu, Zhuoren Li*, Wei Han and Lu Xiong, "Interaction-Aware Safe Reinforcement Learning for Driving through Intersection" 
