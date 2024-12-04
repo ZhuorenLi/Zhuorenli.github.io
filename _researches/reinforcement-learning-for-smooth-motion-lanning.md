@@ -32,9 +32,10 @@ Simultaneously considering the longterm discrete lane-change behavior goal and s
 The proposed hierarchical Reinforcement Learning method with hybrid Parameterized Trajectory Actions (RL-PTA) greatly reduces the ocsillation of the acceleration and steering command, while ensuring maneuvering flexibility and driving efficiency.
 
 ### **Published paper:**
-1. Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319.
+1. **Zhuoren Li**, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319.
 
-2. Zhuoren Li, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving,” SAE Intell. Connected Veh. Symposium (SAE ICVS), 2024.
+2. **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving,” SAE Intell. Connected Veh. Symposium (SAE ICVS), 2024.
 
-3. Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2024.
-<!-- ### **Paper in Preparation:** -->
+3. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2024.
+
+### **Paper in Preparation:**

@@ -71,11 +71,9 @@ It is able to perform smoothly driving maneuvers such as cornering and overtakin
 ![png](/assets/img/researches/optimization/MPC2.png)
 
 ### **Published paper:**
-1. Zhuoren Li, Jia Hu, Bo Leng, et.al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," IEEE Trans. Intell. Transp. Syst., vol. 5, no. 6, 2024.
-2. Zhuoren Li, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in Proc. IEEE Int. Intell. Transp. Syst., 2022, pp. 937-944.
-3. Chengen Tu, Zhuoren Li, Bo Leng and Lu Xiong, "A Seamless Motion Planning Integrating Maneuver Decision Based on Hybrid Model Predictive Control," in Proc. IEEE Int. Intell. Transp. Syst., 2023.
+1. **Zhuoren Li**, Jia Hu, Bo Leng, et.al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," IEEE Trans. Intell. Transp. Syst., vol. 5, no. 6, 2024.
+2. **Zhuoren Li**, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in Proc. IEEE Int. Intell. Transp. Syst., 2022, pp. 937-944.
+3. Chengen Tu, **Zhuoren Li**, Bo Leng and Lu Xiong, "A Seamless Motion Planning Integrating Maneuver Decision Based on Hybrid Model Predictive Control," in Proc. IEEE Int. Intell. Transp. Syst., 2023.
 
 ### **Paper in Preparation:**
-1. Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better.” IEEE Trans. Intell. Transp. (under recview)
-2. Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way," IEEE Trans. Intell. Transp. (under recview)
-3. Bo Leng, Ran Yu, Zhuoren Li*, Wei Han and Lu Xiong, "Interaction-Aware Safe Reinforcement Learning for Driving through Intersection," IEEE Robot. Autom. Lett. (under review) 
+1. Bo Leng, Lu Xiong, **Zhuoren Li***, et.al. “Multi-Mode Evasion Assistance Control Method considering Human Driver Operation,” *Chin. J. Mech. Eng.* (under review)
