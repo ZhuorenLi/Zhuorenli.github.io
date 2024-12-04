@@ -30,7 +30,10 @@
       vertical-align: baseline;
     }
     img{
-      max-width: 100%;
+      max-width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
     }
   }
 
@@ -168,6 +171,20 @@ h1#-news {
         flex-direction: column;
     }
     }
+
+       article{
+    h1{
+      font-family: Lato, Arial; 
+      font-weight: 700; 
+      vertical-align: baseline;
+    }
+    img{
+      max-width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    }
+  }
 
 
     .news{
