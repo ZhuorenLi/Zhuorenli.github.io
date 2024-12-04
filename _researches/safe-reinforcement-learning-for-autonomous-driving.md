@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Safe Reinforcement Learning for Autonomous Driving"
+title: "Safe RL for Autonomous Driving"
 description: "Enhance the safety performance of DRL by prior-knowledge designed safe guidance in both training and testing. (From Sept 2022 to now)"
 img: /assets/img/researches/safe/featured.png
 importance: 1
