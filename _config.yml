@@ -517,8 +517,7 @@ third_party_libraries:
       map: "https://cdn.jsdelivr.net/npm/img-comparison-slider/dist/index.js.map"
     version: "8.0.6"
   jquery:
-    integrity:
-      js: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    
     url:
       #      js: "https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"
       js: "https://code.jquery.com/jquery.min.js"
