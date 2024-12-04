@@ -3,7 +3,7 @@ layout: page
 title: "Control Granularity Research of RL-based Motion Planning"
 description: "Deep reinforcement learning using parameterized trajectory action, for flexible and smooth driving in complex environment. (From Dec 2023 to now)"
 img: assets/img/researches/lanning/featured.png
-importance: 1
+importance: 2
 category: work
 related_publications: false
 horizontal: true
