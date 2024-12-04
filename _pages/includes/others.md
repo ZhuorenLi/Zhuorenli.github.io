@@ -19,8 +19,8 @@
 
 [9]	Zhuoren Li, Lu Xiong, Dequan Zeng, et al., "Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve," *IFAC-PapersOnLine*, 2021, 54(10): 51-58. [PDF](publications/Real-time_Local_Path_Planning_for_Intelligent_Vehicle_combining_Tentacle_Algorithm_and_B-spline_Curve.pdf), [DOI](https://www.sciencedirect.com/science/article/pii/S2405896321015421?via%3Dihub). 
 
-# 💬 Papers in Preparation
-
+# 🔍 Papers in Preparation
+<!-- 💬 -->
 [1] Bo Leng, Ran Yu, Wei Han, Lu Xiong and Zhuoren Li*, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *IEEE Robot. Autom. Lett.* (under review)
         
 [2] Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
