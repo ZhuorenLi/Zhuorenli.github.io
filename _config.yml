@@ -501,8 +501,7 @@ third_party_libraries:
         dark: "https://cdn.jsdelivr.net/npm/highlight.js/styles/github-dark.min.css"
     version: "11.9.0"
   imagesloaded:
-    integrity:
-      js: "sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc="
+    
     url:
       js: "https://npmcdn.com/imagesloaded@5.0.0/imagesloaded.pkgd.js"
     version: "5.0.0"
