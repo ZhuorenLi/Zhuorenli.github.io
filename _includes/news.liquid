@@ -2,14 +2,15 @@
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
         {% assign news = site.news | reverse %}
+         {% assign sorted_news = news | sort: 'importance'  %} 
         {% if include.limit and site.announcements.limit %}
           {% assign news_limit = site.announcements.limit %}
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
-        {% for item in news limit: news_limit %}
+        {% for item in sorted_news limit: news_limit %}
          
-          
+          {% if item.show != false %}
             <div class="new_item">
               {% if item.img %}
                 {%
@@ -27,12 +28,11 @@
                 </a>
                 <p class="new_item_card-text">{{ item.description }}</p>
 
-                <div> {{ item.date | date: '%b %d, %Y' }}</div>
+                <div class="new_item_time"> {{ item.date | date: '%b %d, %Y' }}</div>
                
               </div>
-              </div>
-            
-         
+            </div>
+          {% endif %}
          
         {% endfor %}
        

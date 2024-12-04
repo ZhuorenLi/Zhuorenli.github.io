@@ -34,18 +34,7 @@
 
 
 
-# 🎓 Education
-Ph.D. Student in School of Automotive Studies, 2019-now
 
-Tongji University
-
-B.E. in Engineering Mechanics, 2014-2019
-
-Tongji University
-
-German Enhancement Class in School of Foreign Studies, 2017-2018
-
-Tongji University
 
 
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)

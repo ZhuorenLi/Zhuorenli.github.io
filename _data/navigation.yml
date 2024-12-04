@@ -9,8 +9,7 @@ main:
   - title: "Research Experiences"
     url: "/#-research-experiences"
 
-  - title: "Projects"
-    url: "/#-projects-experiences"
+
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -22,7 +21,9 @@ main:
 
   - title: "Paper in Preparation"
     url: "/#-papers-in-preparation"
-
+    
+  - title: "Projects"
+    url: "/#-projects-experiences"
 
   - title: "CV"
     url: "/assets/pdf/Zhuoren_Li_CV.pdf"    

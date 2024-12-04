@@ -53,12 +53,14 @@ social: true # includes social icons at the bottom of the page
 {% include_relative includes/researches.md %}
 
 
-{% include_relative includes/pub.md %}
 
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
 
+{% include_relative includes/pub.md %}
+
+{% include_relative includes/education.md %}
 
 &nbsp;
 &nbsp;

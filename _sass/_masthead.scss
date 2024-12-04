@@ -52,15 +52,18 @@
         margin: 20px 0;
         justify-content: space-between;
     figure{
-      max-width: 150px;
+      max-width: 100px;
     }
 
     h2{
       font-family: Lato, Arial;
       font-weight: 700;
       vertical-align: baseline;
-      font-size: 1.2rem;
+      font-size: 1rem;
     }
+    .new_item_card-title{font-size: .8rem;}
+    .new_item_card-text{font-size: .8rem;}
+    .new_item_time{font-size: .8rem;}
   }
 }
 
