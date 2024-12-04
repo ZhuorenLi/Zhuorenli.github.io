@@ -54,7 +54,8 @@ socials_in_search: fasle
 bib_search: fasle
 
 # Dimensions
-max_width: 980px
+# max_width: 980px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
