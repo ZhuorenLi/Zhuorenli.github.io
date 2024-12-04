@@ -10,7 +10,7 @@ horizontal: true
 ---
 
 
-## Parking Path Planning in AVP System
+### **Parking Path Planning in AVP System**
 <!-- Collaborating student: *Guizhe Jin, 1st-year Gruaduated Student*. -->
 
 <!-- ### **Motivation**
@@ -25,7 +25,7 @@ Firstly, the minimum road width required for one-step parking is calculated by c
 ![png](/assets/img/researches/parking/allalg.png)
 ![png](/assets/img/researches/parking/alg.png)
 
-### **This research havs supported many engineering projects**
+#### **This research havs supported many engineering projects**
 
 AVP system for SAIC Motor Corporation, Ltd. (mass-produced electric vehicle: Marvel X)
 ![png](/assets/img/researches/parking/marvelx.png)
@@ -37,5 +37,5 @@ Autonomous Parking of Tiev-Plus vehicl for China Future Challenge of Intelligent
 ![png](/assets/img/researches/parking/realtest.png)
 
 
-## **Published Paper:**
+### **Published Paper:**
 1. Zhuoren Li, Lu Xiong, Bo Leng, et.al. Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization. SAE Technical Papers, 2022-01-0085, 2022. 

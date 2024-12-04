@@ -9,9 +9,9 @@ related_publications: false
 horizontal: true
 ---
 
-## Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability
+### **Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability**
 
-### **Motivation**
+#### **Motivation**
 **Unstable and Unsmooth motion in Uncertainty Environment:**
 - Since there is a high-dimensional state/action modeling and the solution process considers the motion evolution of others, both POMDP and game-theory are easy to fall into the dimensionality problem, which makes the algorithm difficult to solve.
 - Most existing studies consider decision making and planning/control separately, simple decision results may not be effectively utilized by planning, which tends to make the solution process of motion planning time-consuming, or the planning unable to reach decision expectations, trajectory shaking and even solving failure in dealing with complex scenarios
@@ -21,13 +21,13 @@ horizontal: true
 An integrated framework of decision-making and motion planning for autonomous driving focus on the lane change/keeping maneuvers. Firstly, we design a belief POMDP decision planner while building the uncertainty of the prediction trajectories. Through the Multi-policy forward solution, getting the optimal decision action and the corresponding future states with the consideration of the uncertainty risk for surrounding vehicles. Then, based on the decision results of lateral semantic behavior and longitudinal continuous acceleration, we build drivable corridors including the reference state and the related boundary constraints, which provide better suited information for planning to solve the optimal motion sequence more quickly and stably, and improve its consistency with decision module. Finally, we consider the vehicle dynamics and introduce some soft constraints to solve the optimal motion trajectory.
 ![png](/assets/img/researches/optimization/corridor.png)   
 
-### **Highlights**
+#### **Highlights**
 - Able to make oscillation-free behavior decisions given biased prediction.
 - Able to cut through in the traffic efficiently and safely when being in squeezed. 
 - Able to accelerate computation efficiency by building a state transfer model based on prediction uncertainty
 - ble to reduce the dissonance between decision-making and motion planning.
 
-### **Some Reults**
+#### **Some Reults**
 ![png](/assets/img/researches/optimization/cutinresult.png)
 ![png](/assets/img/researches/optimization/overtakeresult11.png)
 ![png](/assets/img/researches/optimization/overtakeresult12.png)
@@ -41,41 +41,41 @@ Real Test with our autonomous electric vehicle platform:
 
 
 
-## Mixed Integer Programming with Hybrid Model Predictive Control
+### **Mixed Integer Programming with Hybrid Model Predictive Control**
 Collaborating student: *Encheng Tu, 3rd-year Graduated Student*.
 
-### **Motivation**
+#### **Motivation**
 - Try to directly integrate the semantic behavior decision, trajectroy planning and motion control into a single optimal problem.
 
 An integrated motion planning scheme for autonomous vehicles, which incorporates integer lane state and its logical constraints into the Model Predictive Control (MPC) framework, forming a hybrid MPC-based motion planning framework. 
 
-### **Highlights**
+#### **Highlights**
 - Motion planning without semantic decisions: a hybrid model predictive control (HMPC)-based seamless motion planner.
 - Able to integrate with external semantic decisions to achieve comprehensive optimization based on the external decisions.
 
-### **Some Results**
+#### **Some Results**
 It allows for more efficient lane changing maneuvers in some scenarios wiith more rational lane-changing timing.
 ![png](/assets/img/researches/optimization/HMPCresult.png)
 
-## **Trajectory Planning and Tracking Control Based on Hierarchical MPC**
+### **Trajectory Planning and Tracking Control Based on Hierarchical MPC**
 
 A unified framework of trajectory planning and tracking control for autonomous overtaking, which is formed by hierarchical model predictive control, optimizing the lateral and longitudinal movement in two successive steps.
 
-### **Highlights**
+#### **Highlights**
 - A unified trajectory planning and tracking control framework for autonomous overtaking using hierarchical MPC.
 - Safety corridor generation on ST-Graph with different behavior mode.
 
-### **Some Reults**
+#### **Some Reults**
 It is able to perform smoothly driving maneuvers such as cornering and overtaking in CARLA simulation.
 ![png](/assets/img/researches/optimization/MPC1.png)
 ![png](/assets/img/researches/optimization/MPC2.png)
 
-## **Published paper:**
-1. Zhuoren Li, Jia Hu, Bo Leng, et.al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," IEEE Trans. Intell. Transp. Syst., early access, 2023.
+### **Published paper:**
+1. Zhuoren Li, Jia Hu, Bo Leng, et.al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," IEEE Trans. Intell. Transp. Syst., vol. 5, no. 6, 2024.
 2. Zhuoren Li, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in Proc. IEEE Int. Intell. Transp. Syst., 2022, pp. 937-944.
 3. Chengen Tu, Zhuoren Li, Bo Leng and Lu Xiong, "A Seamless Motion Planning Integrating Maneuver Decision Based on Hybrid Model Predictive Control," in Proc. IEEE Int. Intell. Transp. Syst., 2023.
 
-## **Paper in Preparation:**
-1. Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better.“” (Preparing to submit IEEE Trans. Transp. Electrif.)
-2. Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way." (under review of IEEE Trans. Intell. Vehicles)
-3. Bo Leng, Ran Yu, Zhuoren Li*, Wei Han and Lu Xiong, "Interaction-Aware Safe Reinforcement Learning for Driving through Intersection" 
+### **Paper in Preparation:**
+1. Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better.” IEEE Trans. Intell. Transp. (under recview)
+2. Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way," IEEE Trans. Intell. Transp. (under recview)
+3. Bo Leng, Ran Yu, Zhuoren Li*, Wei Han and Lu Xiong, "Interaction-Aware Safe Reinforcement Learning for Driving through Intersection," IEEE Robot. Autom. Lett. (under review) 
