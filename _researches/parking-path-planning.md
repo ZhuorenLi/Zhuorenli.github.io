@@ -3,7 +3,7 @@ layout: page
 title: "Parking Path Planning"
 description: "Simple and effective parking path planning based on geometric curve and MPC optimization. (From Feb 2021 to Aug 2021)"
 img: /assets/img/researches/parking/featured.png
-importance: 1
+importance: 4
 category: work
 related_publications: false
 horizontal: true
