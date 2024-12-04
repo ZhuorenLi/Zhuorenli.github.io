@@ -87,7 +87,9 @@
   font-size: 0.9rem;
   font-weight: bold !important;
 }
-
+.h6, h6 {
+    font-size: .8rem;
+}
 .network-icon {
   display: flex;
       flex-direction: row;
