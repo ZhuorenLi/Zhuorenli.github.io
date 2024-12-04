@@ -22,7 +22,7 @@
 
 #### 🎙 High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
 
-National Natural Science Foundation of China
+###### National Natural Science Foundation of China
 
 
 ``January 2024 – December 2027 ``  - Role: Student Technical Director
@@ -38,7 +38,7 @@ Responsibilities include:
 
 #### 🎙 Key Technology of Perception and Control in Cooperative Vehicle-Infrastructure System for Urban Public Transportation
 
-National Key Research and Development Program of China
+###### National Key Research and Development Program of China
 
 
 ``January 2023 – December 2025  ``  - Role: Core Participant
@@ -53,7 +53,7 @@ Responsibilities include:
 
 #### 🎙 Binary Mixed Traffic Behavior Characteristics and Collaborative Paradigm
 
-Science and Technology Commission of Shanghai
+###### Science and Technology Commission of Shanghai
 
 
 ``August 2021 – July 2024 ``  - Role: Core Participant
@@ -68,9 +68,9 @@ Responsibilities include:
 
 #### 🎙 Development of Evasion Assistance Algorithm for Emergency Collision Avoidance based on Steer-by-Wire System
 
-Shanghai Automotive Industry Science and Technology
+###### Shanghai Automotive Industry Science and Technology
 
-Development Foundation
+###### Development Foundation
 
 
 ``January 2023 – June 2024 ``  - Role: Student Technical Director
@@ -87,7 +87,7 @@ Responsibilities include:
 
 #### 🎙 Research on Vehicle-Road Cooperative Control for Intelligent Public Transportation System
 
-Shanghai Research Institute for Intelligent Autonomous Systems
+###### Shanghai Research Institute for Intelligent Autonomous Systems
 
 
 ``September 2021 – August 2022 ``  -  Role: Student Technical Director
@@ -103,7 +103,7 @@ Responsibilities include:
 
 #### 🎙 Autonomous Valet Parking (AVP) System Development
 
-Nanchang Automotive Institute of Intelligence & New Energy
+###### Nanchang Automotive Institute of Intelligence & New Energy
 
 
 ``September 2021 – March 2023  ``  -  Role: Student Technical Director
@@ -118,7 +118,7 @@ Responsibilities include:
 
 #### 🎙 Development and Application of Automatic Valet Parking System
 
-Nanchang Automotive Institute of Intelligence & New Energy
+###### Nanchang Automotive Institute of Intelligence & New Energy
 
 
 ``March 2020 – March 2021 ``  -   Role: Student Technical Director
@@ -135,7 +135,7 @@ Responsibilities include:
 
 #### 🎙 China Future Challenge of Intelligent Vehicles
 
-Institute of Intelligent Vehicles, Tongji University
+###### Institute of Intelligent Vehicles, Tongji University
 
 
 ``March 2020 – November 2020  ``  -  Role: Major developer
