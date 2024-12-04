@@ -76,4 +76,4 @@ It is able to perform smoothly driving maneuvers such as cornering and overtakin
 3. Chengen Tu, **Zhuoren Li**, Bo Leng and Lu Xiong, "A Seamless Motion Planning Integrating Maneuver Decision Based on Hybrid Model Predictive Control," in Proc. IEEE Int. Intell. Transp. Syst., 2023.
 
 ### **Paper in Preparation:**
-1. Bo Leng, Lu Xiong, **Zhuoren Li***, et.al. “Multi-Mode Evasion Assistance Control Method considering Human Driver Operation,” *Chin. J. Mech. Eng.* (under review)
+1. Bo Leng, Lu Xiong, **Zhuoren Li\***, et.al. “Multi-Mode Evasion Assistance Control Method considering Human Driver Operation,” *Chin. J. Mech. Eng.* (under review)
