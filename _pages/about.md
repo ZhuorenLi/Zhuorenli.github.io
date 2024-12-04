@@ -6,7 +6,8 @@ permalink: /
 
 profile:
   align: right
-  image: avatar.jpg
+  # image: avatar.jpgMeNew
+  image: MeNew.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <div><small>Zhuoren Li 李拙人<small></div>
