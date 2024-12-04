@@ -8,7 +8,7 @@ category: work
 related_publications: false
 horizontal: true
 ---
-## **Safe DRL with risk evaluation and dangerous momry enhancement**
+## Safe DRL with risk evaluation and dangerous momry enhancement
 Collaborating student: *Ruolin Yang, 3rd-year Gruaduated Student*; *Ran Yu, Undergraduate Student*.
 
 ### **Motivation**

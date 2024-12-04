@@ -10,7 +10,7 @@ horizontal: true
 ---
 
 
-## **Parking Path Planning in AVP System**
+## Parking Path Planning in AVP System
 <!-- Collaborating student: *Guizhe Jin, 1st-year Gruaduated Student*. -->
 
 <!-- ### **Motivation**

@@ -9,7 +9,7 @@ related_publications: false
 horizontal: true
 ---
 
-## **Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability** 
+## Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability
 
 ### **Motivation**
 **Unstable and Unsmooth motion in Uncertainty Environment:**
@@ -41,7 +41,7 @@ Real Test with our autonomous electric vehicle platform:
 
 
 
-## **Mixed Integer Programming with Hybrid Model Predictive Control**
+## Mixed Integer Programming with Hybrid Model Predictive Control
 Collaborating student: *Encheng Tu, 3rd-year Graduated Student*.
 
 ### **Motivation**

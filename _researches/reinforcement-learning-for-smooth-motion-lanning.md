@@ -9,7 +9,7 @@ related_publications: false
 horizontal: true
 ---
 
-## **Stability Enhanced DRL with Parameterized Trajectory Action**
+## Stability Enhanced DRL with Parameterized Trajectory Action
 Collaborating student: *Guizhe Jin, 1st-year Gruaduated Student*.
 
 
