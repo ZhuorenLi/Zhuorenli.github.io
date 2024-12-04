@@ -3,7 +3,7 @@ layout: post
 title: "Dialogue with Prof. Gabor from University of Michigan"
 description: It was pleasured to invite Prof. Gabor Orosz from the University of Michigan to Tongji University.
 img: assets/img/news/communicate_with_prof_gabor/featured.jpg
-importance: 1
+importance: 4
 date: '2024-07-02T09:00:00Z'
 category: work
 related_publications: false
