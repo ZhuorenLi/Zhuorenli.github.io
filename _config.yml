@@ -500,11 +500,7 @@ third_party_libraries:
         light: "https://cdn.jsdelivr.net/npm/highlight.js/styles/github.min.css"
         dark: "https://cdn.jsdelivr.net/npm/highlight.js/styles/github-dark.min.css"
     version: "11.9.0"
-  imagesloaded:
-    
-    url:
-      js: "https://npmcdn.com/imagesloaded@5.0.0/imagesloaded.pkgd.js"
-    version: "5.0.0"
+ 
   img-comparison-slider:
     integrity:
       css: "sha256-3qTIuuUWIFnnU3LpQMjqiXc0p09rvd0dmj+WkpQXSR8="
