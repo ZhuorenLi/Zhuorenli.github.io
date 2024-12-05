@@ -42,7 +42,7 @@ Real Test with our autonomous electric vehicle platform:
 
 
 ### **Mixed Integer Programming with Hybrid Model Predictive Control**
-Collaborating student: *Encheng Tu, 3rd-year Graduated Student*.
+Collaborating student: *Encheng Tu, Graduated Student*.
 
 #### **Motivation**
 - Try to directly integrate the semantic behavior decision, trajectroy planning and motion control into a single optimal problem.
