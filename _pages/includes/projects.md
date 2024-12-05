@@ -82,6 +82,7 @@ Responsibilities include:
  - Overall task management.
  - Development of Parking slot allocation.
  - Parking path planning and tracking control.
+
 ***
 
 #### 🎙 Development and Application of Automatic Valet Parking System
