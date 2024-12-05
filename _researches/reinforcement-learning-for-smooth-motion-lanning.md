@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Control Granularity Research of RL-based Motion Planning"
-description: "Deep reinforcement learning using parameterized trajectory action, for flexible and smooth driving in complex environment. (From Dec 2023 to now)"
+description: "DRL using parameterized action with sufficient control granularity, for flexible and smooth driving in complex environment. (From Dec 2023 to now)"
 img: assets/img/researches/lanning/featured.png
 importance: 2
 category: work
@@ -10,7 +10,7 @@ horizontal: true
 ---
 
 ### **Stability Enhanced DRL with Parameterized Trajectory Action**
-Collaborating student: *Guizhe Jin, 1st-year Gruaduated Student*.
+Collaborating student: *Guizhe Jin, 2nd-year Gruaduate Student; Ran Yu, 1st-year Gruaduate Student*.
 
 
 #### **Motivation**
