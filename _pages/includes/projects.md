@@ -5,7 +5,7 @@
 
 #### 🎙 Funding/Grant Proposal Writing
 
-``January 2020 – November 2024``
+###### National Natural Science Foundation of China, Jan. 2020 – Dec. 2024 
 
  - Shanghai Municipal People’s Government (SMPG), Oriental Excellence Program Youth Project, 2024;
  - National Natural Science Foundation of China (NSFC), Key Program, 2024;
@@ -13,35 +13,25 @@
  - NSFC, Distinguished Young Scholars Grant, 2022;
  - SMPG, Shanghai Science and Technology Progress First Award, 2022;
  - Ministry of Science and Technology, PRC, National Key Research and Development Program of China, 2021;
- - National Development and Reform Commission (NDRC), The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020;
+ - National Development and Reform Commission, The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020;
  - NSFC, Young Scholars Grant, 2020.
-
 
 ***
 
 
 #### 🎙 High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
 
-###### National Natural Science Foundation of China
-
-
-``January 2024 – December 2027 ``  - Role: Student Technical Director
+###### National Natural Science Foundation of China, Jan. 2024 – Dec. 2027, - Role: Student Technical Director 
 
 Responsibilities include:
-
  - Overall task management.
  - Multi-component coupled environmental risk characterization.
  - Motion Planning for Mixed Steering Vehicles.
-
-
 ***
 
 #### 🎙 Key Technology of Perception and Control in Cooperative Vehicle-Infrastructure System for Urban Public Transportation
 
-###### National Key Research and Development Program of China
-
-
-``January 2023 – December 2025  ``  - Role: Core Participant
+###### National Key Research and Development Program of China, Jan. 2023 – Dec. 2025, - Role: Core Participant
 
 Responsibilities include:
 
@@ -53,10 +43,7 @@ Responsibilities include:
 
 #### 🎙 Binary Mixed Traffic Behavior Characteristics and Collaborative Paradigm
 
-###### Science and Technology Commission of Shanghai
-
-
-``August 2021 – July 2024 ``  - Role: Core Participant
+###### Science and Technology Commission of Shanghai, Aug. 2021 – Jul. 2024, - Role: Core Participant
 
 Responsibilities include:
 
@@ -64,16 +51,9 @@ Responsibilities include:
 
 ***
 
-
-
 #### 🎙 Development of Evasion Assistance Algorithm for Emergency Collision Avoidance based on Steer-by-Wire System
 
-###### Shanghai Automotive Industry Science and Technology
-
-###### Development Foundation
-
-
-``January 2023 – June 2024 ``  - Role: Student Technical Director
+###### Shanghai Automotive Industry Science and Technology Development Foundation, Jan. 2023 – Jun. 2024, - Role: Student Technical Director
 
 Responsibilities include:
 
@@ -83,14 +63,9 @@ Responsibilities include:
 
 ***
 
-
-
 #### 🎙 Research on Vehicle-Road Cooperative Control for Intelligent Public Transportation System
 
-###### Shanghai Research Institute for Intelligent Autonomous Systems
-
-
-``September 2021 – August 2022 ``  -  Role: Student Technical Director
+###### Shanghai Research Institute for Intelligent Autonomous Systems, Sep. 2021 – Aug. 2022, - Role: Student Technical Director
 
 Responsibilities include:
 
@@ -99,14 +74,9 @@ Responsibilities include:
 
 ***
 
-
-
 #### 🎙 Autonomous Valet Parking (AVP) System Development
 
-###### Nanchang Automotive Institute of Intelligence & New Energy
-
-
-``September 2021 – March 2023  ``  -  Role: Student Technical Director
+###### Nanchang Automotive Institute of Intelligence & New Energy, Sep. 2021 – Mar. 2023, - Role: Student Technical Director
 
 Responsibilities include:
  - Overall task management.
@@ -114,14 +84,9 @@ Responsibilities include:
  - Parking path planning and tracking control.
 ***
 
-
-
 #### 🎙 Development and Application of Automatic Valet Parking System
 
-###### Nanchang Automotive Institute of Intelligence & New Energy
-
-
-``March 2020 – March 2021 ``  -   Role: Student Technical Director
+###### Nanchang Automotive Institute of Intelligence & New Energy, Mar. 2020 – Mar. 2021, - Role: Student Technical Director
 
 Responsibilities include:
 
@@ -135,10 +100,7 @@ Responsibilities include:
 
 #### 🎙 China Future Challenge of Intelligent Vehicles
 
-###### Institute of Intelligent Vehicles, Tongji University
-
-
-``March 2020 – November 2020  ``  -  Role: Major developer
+###### Institute of Intelligent Vehicles, Tongji University， Mar. 2020 – Nov. 2020, - Role: Major developer
 
 
 Responsibilities include:
@@ -151,21 +113,6 @@ Responsibilities include:
 
 
 <!-- 
-
-
-#### Funding/Grant Proposal Writing
-
-``January 2020 – November 2024``
-
- - Shanghai Municipal People’s Government (SMPG), Oriental Excellence Program Youth Project, 2024;
- - National Natural Science Foundation of China (NSFC), Key Program, 2024;
- - NSFC, General Program, 2023;
- - NSFC, Distinguished Young Scholars Grant, 2022;
- - SMPG, Shanghai Science and Technology Progress First Award, 2022;
- - Ministry of Science and Technology, PRC, National Key Research and Development Program of China, 2021;
- - National Development and Reform Commission (NDRC), The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020;
- - NSFC, Young Scholars Grant, 2020.
-
   
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
