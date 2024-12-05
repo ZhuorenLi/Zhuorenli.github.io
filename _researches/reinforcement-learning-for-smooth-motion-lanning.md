@@ -10,7 +10,7 @@ horizontal: true
 ---
 
 ### **Stability Enhanced DRL with Parameterized Trajectory Action**
-Collaborating student: *Guizhe Jin, 2nd-year Gruaduate Student; Ran Yu, 1st-year Gruaduate Student*.
+Collaborating student: *Guizhe Jin, 2nd-year Gruaduate Student*.
 
 
 #### **Motivation**
