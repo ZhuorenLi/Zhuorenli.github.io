@@ -9,7 +9,7 @@ related_publications: false
 horizontal: true
 ---
 ### **Safe DRL with risk evaluation and dangerous momry enhancement**
-Collaborating student: *Ruolin Yang, 3rd-year Gruaduated Student*; *Ran Yu, Undergraduate Student*.
+Collaborating student: *Ruolin Yang, Gruaduated Student*; *Ran Yu, 1st-year Gruaduate Student*.
 
 #### **Motivation**
 Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
