@@ -1,4 +1,4 @@
-# 📝 Projects Experiences
+# 📝 Project Experiences
 <!-- ## 🎙 Speech Synthesis -->
 <!-- # 📝 Publications 
 ## 🎙 Speech Synthesis -->
