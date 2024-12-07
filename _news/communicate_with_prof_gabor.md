@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dialogue with Prof. Gabor from University of Michigan"
+title: "🤝 Dialogue with Prof. Gabor from University of Michigan"
 description: It was pleasured to invite Prof. Gabor Orosz from the University of Michigan to Tongji University.
 img: assets/img/news/communicate_with_prof_gabor/featured.jpg
 importance: 4
