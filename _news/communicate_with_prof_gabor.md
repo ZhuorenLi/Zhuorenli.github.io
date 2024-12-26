@@ -7,7 +7,8 @@ importance: 4
 date: '2024-07-02T09:00:00Z'
 category: work
 related_publications: false
-horizontal: false
+horizontal: true
+show: false
 ---
 
 
