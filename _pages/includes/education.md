@@ -5,27 +5,27 @@
 • Conference Reviewer: IV, ITSC, CVCI
 
 ## **Mentoring**
-I have been mentoring 4 Ph.D. students and 9 master's students.
+I have been serving as the Student Director of the Intelligent Decision Research Group at TJU-IIV. I lead the team in studies on safe reinforcement learning, interactive behavior decision-making, and unstructured trajectory planning. To date, I have mentored 4 Ph.D. students, 11 master's students, and several undergraduate students.
 
 **Ph.D. Students:**
-• Weiqi Zhang: 2025-present, focusing on E2E RL racing.
+• 2025-present: Weiqi Zhang, focusing on E2E RL racing.
 
-• Zhiwen Chen: 2023-present, focusing on LLM-enhanced RL for AD.
+• 2023-present: Zhiwen Chen, focusing on LLM-enhanced RL for AD.
 
-• Peiyuan Fang: 2022-present, focusing on Motion Planning under off-road environment.
+• 2022-present: Peiyuan Fang, focusing on Motion Planning under Off-road Environment; Xinrui Zhang, focusing on Cloud-Vehicle Cooperative Planning.
 
-• Xinrui Zhang: 2022-present, focusing on Cloud-Vehicle Cooperative Planning.
+**Master Students:**
+• 2024-present: Ran Yu, Trajectory Prediction and Safe-RL; Zhizhao Ni, LfD-based RL for Merging in Congested Traffic.
 
-**Ph.D. Students:**
-• 2024-present: Ran Yu, Trajectory Prediction and Safe-RL.
-
-• 2023-present: Guizhe Jin, Multi-objective Compatiable RL; Zhou Sun, Motion Planning under off-road environment.
+• 2023-present: Guizhe Jin, Multi-objective Compatiable RL; Zhou Sun, Motion Planning under Off-road Environment.
 
 • 2022-present: Yu Che, Cloud-Vehicle Cooperative Tracking Control.
 
-• 2021-2024: Ruolin Yang, Harmony-enchaned RL; Encheng Tu, Hybrid MPC Motion Planning for autonomous overtaking.
+• 2021-2024: Ruolin Yang, Harmony-enchaned RL; Encheng Tu, Hybrid MPC Motion Planning for Autonomous Overtaking; Yizhuo Guan, Prediction and Control for Emergency Evasion.
 
-• 2019-2022: Puhang Xu, Safe-RL; Hongyu Xiao, POMDP Motion Planning; Zixuan Qian, SMPC Motion Planning.
+• 2020-2023: Gesong Shi, Cooperative Control for Transit Priority.
+
+• 2019-2022: Puhang Xu, Safe-RL Decision-Making; Hongyu Xiao, POMDP Motion Planning; Zixuan Qian, SMPC Motion Planning.
 
 # 🎓 Education
 Ph.D. Student in School of Automotive Studies, Tongji University, 2019-now.
