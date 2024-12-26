@@ -9,16 +9,37 @@ related_publications: false
 horizontal: true
 ---
 
-### **Stability Enhanced DRL with Parameterized Trajectory Action**
+### **Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**
 Collaborating student: *Guizhe Jin, 2nd-year Gruaduate Student*.
 
+#### **Motivation**
+- Coordinate both stability and flexibility of driving maneuver.
+- Compating multi-attributes reward during RL policy training.
+- Facilitating the policy exploration for finding global optimal solution.
+
+![png](/assets/img/researches/CGRL/MoEC.png)
+
+Simultaneously considering the longterm discrete lane-change behavior goal and short-term realtime vehicle control. A hierarchical Reinforcement Learning method with a hybrid action space is designed to enhance driving stability and smoothness based on parameterized trajectory actions.
+
+#### **Highlights**
+- Designing a hybrid action structure including long-horizon behavior action and trajectory parameters, and short-horizon control command.
+- Constructing a multi-critic approach to compat efficiency reward and safety reward during RL policy training.
+- Proposing an epistemic uncertainty-based exploration strategy to improve sample efficiency and comprehensive learning performance.
+
+#### **Some Reults**
+![png](/assets/img/researches/CGRL/MoEC-train.png)
+![png](/assets/img/researches/CGRL/MoEC-test.png)
+
+
+### **Stability Enhanced DRL with Parameterized Trajectory Action**
+Collaborating student: *Guizhe Jin, 2nd-year Gruaduate Student*.
 
 #### **Motivation**
 When DRL directly control the vehicle's motion:
 - The output commands are easy to change continuously whent DRL agent directly generates the control command.
 - The control commands generated in real-time are prone to sudden changes in dynamically changing environments due to the lack of long-term motion planning.
 
-![png](/assets/img/researches/lanning/featured.png)
+![png](/assets/img/researches/CGRL/RLTPA.png)
 
 Simultaneously considering the longterm discrete lane-change behavior goal and short-term realtime vehicle control. A hierarchical Reinforcement Learning method with a hybrid action space is designed to enhance driving stability and smoothness based on parameterized trajectory actions.
 
@@ -28,14 +49,13 @@ Simultaneously considering the longterm discrete lane-change behavior goal and s
 - Realizes hybrid action output based on parameterized action space, hence the discrete and continuous actions have the optimal consistency.
 
 #### **Some Reults**
-![png](/assets/img/researches/lanning/result-RLPTA.png)
+![png](/assets/img/researches/CGRL/result-RLPTA.png)
 The proposed hierarchical Reinforcement Learning method with hybrid Parameterized Trajectory Actions (RL-PTA) greatly reduces the ocsillation of the acceleration and steering command, while ensuring maneuvering flexibility and driving efficiency.
 
+
 ### **Published paper:**
-1. **Zhuoren Li**, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319.
+1. **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving,” *SAE Intell. Connected Veh. Symposium (SAE ICVS)*, 2024.
 
-2. **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving,” SAE Intell. Connected Veh. Symposium (SAE ICVS), 2024.
-
-3. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2024.
+2. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024.
 
 ### **Paper in Preparation:**
