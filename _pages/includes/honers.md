@@ -17,5 +17,7 @@
 * Outstanding Doctoral Student Scholarship, Tongji University, 2024.
 
 * Vehicle-road-cloud Integrated Autonomous Driving Challenge, Third Prize, 2024.
+  
+* Outstanding Individual Award, Institute of Intelligent Vehicles, Tongji University, 2022, 2023, 2024.
 
 * World Artificial Intelligence Conference AI Driving Simulation Competition, Third Prize in the University Challenge Competition, 2022
