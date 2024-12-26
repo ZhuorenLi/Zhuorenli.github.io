@@ -2,7 +2,7 @@
 layout: page
 title: "Control Granularity Research of RL-based Motion Planning"
 description: "DRL using parameterized action with sufficient control granularity, for flexible and smooth driving in complex environment. (From Dec 2023 to now)"
-img: assets/img/researches/lanning/featured.png
+img: assets/img/researches/CGRL/featured.png
 importance: 2
 category: work
 related_publications: false
