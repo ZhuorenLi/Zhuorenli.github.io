@@ -31,7 +31,7 @@ Proposed safety enhanced DRL approach could improve the driving performance, esp
 More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (in preparation, it will come soon)
 
 ### **Current Work**
-- Combination hard-constraints and soft-constraints in safe policy training.
+- Combination hard-constraints and policy optimization during safe training.
 - A learnable evaluation module to predict the anticipated risk.
 - Considering interaction features in critic network design based on Game-Theory.
 - Application of self-attention mechanisms in policy network design
