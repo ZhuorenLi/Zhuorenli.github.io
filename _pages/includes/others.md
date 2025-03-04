@@ -19,7 +19,7 @@
 
 [9]	**Zhuoren Li**, Lu Xiong, Bo Leng, et al., "Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization," *SAE Technical Papers*, 2022-01-0085, 2022. [PDF](/assets/pdf/paper/Path_Planning_Method_for_Perpendicular_Parking_based_on_Vehicle_Kinematics_Model_using_MPC_Optimization.pdf), [DOI](https://saemobilus.sae.org/papers/path-planning-method-perpendicular-parking-based-vehicle-kinematics-model-using-mpc-optimization-2022-01-0085).
 
-[10]	**Zhuoren Li**, Lu Xiong, Dequan Zeng, et al., "Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve," *IFAC-PapersOnLine*, 2021, 54(10): 51-58. [PDF](/assets/pdf/paper/Real-time_Local_Path_Planning_for_Intelligent_Vehicle_combining_Tentacle_Algorithm_and_B-spline_Curve.pdf), [DOI](https://www.sciencedirect.com/science/article/pii/S2405896321015421?via%3Dihub). 
+[10]	**Zhuoren Li**, Lu Xiong, Dequan Zeng, et al., "Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve," *IFAC-PapersOnLine*, 2021, 54(10): 51-58. [PDF](/assets/pdf/paper/Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve.pdf), [DOI](https://www.sciencedirect.com/science/article/pii/S2405896321015421?via%3Dihub). 
 
 # 🔍 Papers in Preparation
 <!-- 💬 -->
