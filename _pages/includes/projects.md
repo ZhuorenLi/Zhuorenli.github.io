@@ -7,14 +7,10 @@
 
 ###### National Natural Science Foundation of China, Jan. 2020 – Dec. 2024 
 
- - Shanghai Municipal People’s Government (SMPG), Oriental Excellence Program Youth Project, 2024;
- - National Natural Science Foundation of China (NSFC), Key Program, 2024;
- - NSFC, General Program, 2023;
- - NSFC, Distinguished Young Scholars Grant, 2022;
- - SMPG, Shanghai Science and Technology Progress First Award, 2022;
+ - National Natural Science Foundation of China (NSFC), Excellent Young Scholars Fund, 2025; Key Program, 2024; General Program, 2023; Distinguished Young Scholars Fund, 2022; Young Scholars Grant, 2020.
+ - Shanghai Municipal People’s Government (SMPG), Oriental Excellence Program Youth Project, 2024; Shanghai Science and Technology Progress First Award, 2022;
  - Ministry of Science and Technology, PRC, National Key Research and Development Program of China, 2021;
  - National Development and Reform Commission, The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020;
- - NSFC, Young Scholars Grant, 2020.
 
 ***
 
