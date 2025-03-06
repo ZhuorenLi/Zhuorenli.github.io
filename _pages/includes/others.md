@@ -27,7 +27,7 @@
         
 [2] **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
-[3] Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al.，“Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp.* (under review)
+[3] Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al., “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp.* (under review)
 
 [4] Bo Leng, Lu Xiong, **Zhuoren Li\***, et.al. “Multi-Mode Evasion Assistance Control Method considering Human Driver Operation,” *Chin. J. Mech. Eng.* (under review)
 
