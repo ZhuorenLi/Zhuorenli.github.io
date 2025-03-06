@@ -14,7 +14,6 @@
 
 ***
 
-
 #### 🎙 High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
 
 ###### National Natural Science Foundation of China, Jan. 2024 – Dec. 2027, - Role: Student Technical Director 
@@ -23,6 +22,7 @@ Responsibilities include:
  - Overall task management.
  - Multi-component coupled environmental risk characterization.
  - Motion Planning for Mixed Steering Vehicles.
+  
 ***
 
 #### 🎙 Key Technology of Perception and Control in Cooperative Vehicle-Infrastructure System for Urban Public Transportation
