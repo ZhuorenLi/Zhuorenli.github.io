@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Safe RL for Autonomous Driving"
-description: "Enhance the safety performance of DRL by prior-knowledge designed safe demonstration in both training and testing. (From Sept 2022 to now)"
+description: "Enhancing the safety performance of RL-based motion planning by prior-knowledge designed safety constraints. (From Sept 2022 to now)"
 img: /assets/img/researches/safe/featured.png
 importance: 1
 category: work
