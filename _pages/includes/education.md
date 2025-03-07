@@ -9,11 +9,11 @@ I have been serving as the Student Director of the Intelligent Decision Research
 
 **Ph.D. Students:**
 
-• 2025-present: *Weiqi Zhang*, focusing on E2E RL racing.
+• 2025-present: ***Weiqi Zhang***, focusing on E2E RL racing.
 
-• 2023-present: *Zhiwen Chen*, focusing on LLM-enhanced RL for AD.
+• 2023-present: ***Zhiwen Chen***, focusing on LLM-enhanced RL for AD.
 
-• 2022-present: *Peiyuan Fang*, focusing on Motion Planning under Off-road Environment; *Xinrui Zhang*, focusing on Cloud-Vehicle Cooperative Planning.
+• 2022-present: ***Peiyuan Fang***, focusing on Motion Planning under Off-road Environment; ***Xinrui Zhang***, focusing on Cloud-Vehicle Cooperative Planning.
 
 **Master Students:**
 
