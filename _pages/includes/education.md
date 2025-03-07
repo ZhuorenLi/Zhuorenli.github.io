@@ -30,7 +30,7 @@ I have been serving as the Student Director of the Intelligent Decision Research
 • 2019-2022: ***Puhang Xu***, Safe-RL Decision-Making; ***Hongyu Xiao***, POMDP Motion Planning; ***Zixuan Qian***, SMPC Motion Planning; ***Jie Gao***: Global Planning.
 
 # 🎓 Education
-Ph.D. Student in School of Automotive Studies, Tongji University, 2019-now.
+Ph.D. Student in Vehicle Engineering, Tongji University, 2019-now.
 
 B.E. in Engineering Mechanics, Tongji University, 2014-2019.
 
