@@ -8,6 +8,7 @@
 I have been serving as the Student Director of the Intelligent Decision Research Group at TJU-IIV. I lead the team in studies on safe reinforcement learning, interactive behavior decision-making, and unstructured trajectory planning. To date, I have mentored 4 Ph.D. students, 13 master's students, and several undergraduate students.
 
 **Ph.D. Students:**
+
 • 2025-present: *Weiqi Zhang*, focusing on E2E RL racing.
 
 • 2023-present: *Zhiwen Chen*, focusing on LLM-enhanced RL for AD.
@@ -15,6 +16,7 @@ I have been serving as the Student Director of the Intelligent Decision Research
 • 2022-present: *Peiyuan Fang*, focusing on Motion Planning under Off-road Environment; *Xinrui Zhang*, focusing on Cloud-Vehicle Cooperative Planning.
 
 **Master Students:**
+
 • 2024-present: *Ran Yu*, Trajectory Prediction and Safe-RL; *Zhizhao Ni*, LfD-based RL for Merging in Congested Traffic.
 
 • 2023-present: *Guizhe Jin*, Multi-objective Compatiable RL; *Zhou Sun*, Motion Planning under Off-road Environment.

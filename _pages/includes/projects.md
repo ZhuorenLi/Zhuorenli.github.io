@@ -31,7 +31,7 @@ Responsibilities include:
 
 Responsibilities include:
 
- - Intelligent Decision-Making and Motion Planning in Vehicle End.
+ - Intelligent Decision-Making and Motion Planning in Vehicle Side.
 
 ***
 
@@ -54,19 +54,19 @@ Responsibilities include:
 Responsibilities include:
 
  - Overall task management.
- - Devolopment of motion control algorithm emergency collision avoidance.
+ - Development of motion control algorithm emergency collision avoidance.
  - Simulation validation, real vehicle modification and test.
 
 ***
 
 #### 🎙 Research on Vehicle-Road Cooperative Control for Intelligent Public Transportation System
 
-###### Shanghai Research Institute for Intelligent Autonomous Systems, Sep. 2021 – Aug. 2022, - Role: Student Technical Director
+###### Shanghai Research Institute for Intelligent Autonomous Systems, Sept. 2021 – Aug. 2022, - Role: Student Technical Director
 
 Responsibilities include:
 
  - Overall task management.
- - Vehicle speed planning according to the traffic signal optimization.
+ - Vehicle speed planning based on the traffic signal optimization.
 
 ***
 
@@ -83,7 +83,7 @@ Responsibilities include:
 
 #### 🎙 Development and Application of Automatic Valet Parking System
 
-###### Nanchang Automotive Institute of Intelligence & New Energy, Mar. 2020 – Mar. 2021, - Role: Student Technical Director
+###### Nanchang Automotive Institute of Intelligence & New Energy, Feb. 2020 – Mar. 2021, - Role: Student Technical Director
 
 Responsibilities include:
 
@@ -97,7 +97,7 @@ Responsibilities include:
 
 #### 🎙 China Future Challenge of Intelligent Vehicles
 
-###### Institute of Intelligent Vehicles, Tongji University， Mar. 2020 – Nov. 2020, - Role: Major developer
+###### Institute of Intelligent Vehicles, Tongji University, Mar. 2020 – Nov. 2020, - Role: Major developer
 
 
 Responsibilities include:
