@@ -3,38 +3,40 @@
 <!-- # 📝 Publications 
 ## 🎙 Speech Synthesis -->
 
-#### 🎙 Funding/Grant Proposal Writing
-
-###### National Natural Science Foundation of China, Jan. 2020 – Dec. 2024 
-
- - National Natural Science Foundation of China (NSFC), Excellent Young Scholars Fund, 2025; Key Program, 2024; General Program, 2023; Distinguished Young Scholars Fund, 2022; Young Scholars Grant, 2020.
- - Shanghai Municipal People’s Government (SMPG), Oriental Excellence Program Youth Project, 2024; Shanghai Science and Technology Progress First Award, 2022;
- - Ministry of Science and Technology, PRC, National Key Research and Development Program of China, 2021;
- - National Development and Reform Commission, The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020;
-
-***
 
 #### 🎙 High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
 
-###### National Natural Science Foundation of China, Jan. 2024 – Dec. 2027, - Role: Student Technical Director 
+###### National Natural Science Foundation of China, Jan. 2024 – Present, - Role: Student Technical Director 
 
 Responsibilities include:
- - Overall task management.
- - Multi-component coupled environmental risk characterization.
- - Motion Planning for Mixed Steering Vehicles.
+ - Comprehensive task management.
+ - Designed an environmental risk characterization algorithm considering negative obstacles.
+ - Led the Development of a motion planning approach combining hybrid A* and optimization-based methods
   
 ***
 
 #### 🎙 Key Technology of Perception and Control in Cooperative Vehicle-Infrastructure System for Urban Public Transportation
 
-###### National Key Research and Development Program of China, Jan. 2023 – Dec. 2025, - Role: Core Participant
+###### National Key Research and Development Program of China, Jan. 2023 – Mar 2025, - Role: Core Participant
 
 Responsibilities include:
 
- - Intelligent Decision-Making and Motion Planning in Vehicle Side.
+ - Developed the decision-making and motion planning algorithms for cruise driving and lane change functions in vehicle side, based on the recommended speed from the road side.
 
 ***
 
+
+#### 🎙 Development of Evasion Assistance Algorithm for Emergency Collision Avoidance based on Steer-by-Wire System
+
+###### Shanghai Automotive Industry Science and Technology Development Foundation, Jul. 2022 – Jul. 2024, - Role: Student Technical Director
+
+Responsibilities include:
+
+ - Comprehensive task management.
+ - Led the development of a motion control algorithm for emergency collision avoidance.
+ - Led the simulation validation in Carmaker/Simulink, steer-by-wire system modification on the real vehicle and ground test based on Audesse ECU.
+
+***
 
 
 #### 🎙 Binary Mixed Traffic Behavior Characteristics and Collaborative Paradigm
@@ -47,17 +49,6 @@ Responsibilities include:
 
 ***
 
-#### 🎙 Development of Evasion Assistance Algorithm for Emergency Collision Avoidance based on Steer-by-Wire System
-
-###### Shanghai Automotive Industry Science and Technology Development Foundation, Jan. 2023 – Jun. 2024, - Role: Student Technical Director
-
-Responsibilities include:
-
- - Overall task management.
- - Development of motion control algorithm emergency collision avoidance.
- - Simulation validation, real vehicle modification and test.
-
-***
 
 #### 🎙 Research on Vehicle-Road Cooperative Control for Intelligent Public Transportation System
 
@@ -65,8 +56,8 @@ Responsibilities include:
 
 Responsibilities include:
 
- - Overall task management.
- - Vehicle speed planning based on the traffic signal optimization.
+ - Comprehensive task management.
+ - Led the development of a signal control algorithm and a vehicle speed optimization algorithm.
 
 ***
 
@@ -75,9 +66,9 @@ Responsibilities include:
 ###### Nanchang Automotive Institute of Intelligence & New Energy, Sep. 2021 – Mar. 2023, - Role: Student Technical Director
 
 Responsibilities include:
- - Overall task management.
- - Development of Parking slot allocation.
- - Parking path planning and tracking control.
+ - Comprehensive task management.
+ - Led the development of a parking slot allocation algorithm.
+ - Developed parking path planning and tracking control algorithms.
 
 ***
 
@@ -87,10 +78,10 @@ Responsibilities include:
 
 Responsibilities include:
 
- - Overall task management.
- - Hardware and software communication systems.
- - Development of Parking path planning algorithm.
- - Development of tracking control algorithm.
+ - Comprehensive task management.
+ - Developed an integrated module for hardware and software communication.
+ - Developed a parking path planning algorithm based on geometric configuration.
+ - Developed a Stanley-based path tracking algorithm and a feedforward PID-based speed tracking algorithm.
 
 ***
 
@@ -99,14 +90,22 @@ Responsibilities include:
 
 ###### Institute of Intelligent Vehicles, Tongji University, Mar. 2020 – Nov. 2020, - Role: Major developer
 
-
 Responsibilities include:
 
- - System framework development of planning algorithm.
- - Avoidance path planning for static obstacle.
- - Parking path planning.
+ - Developed a system integration framework inspired by the Baidu Apollo.
+ - Developed a search-based path planning algorithm for static obstacle avoidance.
+ - Developed a parking path planning algorithm based on hybrid A*.
 
+#### 🎙 Funding/Grant Proposal Writing
 
+###### Jan. 2020 – Mar. 2025 
+
+ - National Natural Science Foundation of China (NSFC), Excellent Young Scholars Fund, 2025; Key Program, 2024; General Program, 2023; Distinguished Young Scholars Fund, 2022; Young Scholars Grant, 2020.
+ - Shanghai Municipal People’s Government (SMPG), Oriental Excellence Program Youth Project, 2024; Shanghai Science and Technology Progress First Award, 2022;
+ - Ministry of Science and Technology, PRC, National Key Research and Development Program of China, 2021;
+ - National Development and Reform Commission, The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020;
+
+***
 
 
 <!-- 
