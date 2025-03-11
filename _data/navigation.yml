@@ -10,7 +10,7 @@ main:
     url: "/#-research-experiences"
 
   - title: "Publications"
-    url: "/#-main-publications"    
+    url: "/#-publications"    
 
   - title: "Projects"
     url: "/#-project-experiences"
