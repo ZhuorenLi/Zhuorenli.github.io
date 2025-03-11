@@ -25,7 +25,7 @@
 
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
-[1]	Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving," 2025. [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arxiv](https://arxiv.org/abs/2501.08096).
+[1]	Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving," 2025. [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
 
 [2] Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Lu Xiong and Bo Leng, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *IEEE Trans. Intell. Transp. Syst.* (under review)
         
@@ -34,6 +34,8 @@
 [4] Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al., “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
 [5] **Zhuoren Li**, Guizhe Jin, Ran Yu, et al., “A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective.”
+
+[6]	Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Hybrid Time-Scale Hierarchical Reinforcement Learning for Motion Planning.”
 
 
 
