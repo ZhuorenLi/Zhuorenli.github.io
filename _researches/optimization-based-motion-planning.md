@@ -40,6 +40,7 @@ Simulation demo in VTD:
 
 Real Test with our autonomous electric vehicle platform:
 ![png](/assets/img/researches/optimization/realtestandvehicle.png)
+![gif](/assets/img/researches/optimization/xiqutestgif.gif)
 ![png](/assets/img/researches/optimization/realresult.png)
 
 
