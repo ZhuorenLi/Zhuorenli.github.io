@@ -35,6 +35,9 @@ An integrated framework of decision-making and motion planning for autonomous dr
 Able to recat to deceleration in advanced in cut-in scenario with smoother acceleration and speed changes.
 In overtaking scenario, it able to overtake continuously with smoother lane-change driving way. It is also capable of avoiding possible lane-change failures and potential risks associated with reckless lane-change maneuver through uncertainty characterization.
 
+Simulation demo in VTD:
+![gif](/assets/img/researches/optimization/VTDtestgif.gif)
+
 Real Test with our autonomous electric vehicle platform:
 ![png](/assets/img/researches/optimization/realtestandvehicle.png)
 ![png](/assets/img/researches/optimization/realresult.png)
