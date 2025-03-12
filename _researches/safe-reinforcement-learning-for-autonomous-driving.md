@@ -26,9 +26,10 @@ Proposeing a safety enhanced deep reinforcement learning for autonomous motion p
 #### **Some Results**
 ![png](/assets/img/researches/safe/traincurve.png) 
 ![png](/assets/img/researches/safe/testTR.png) 
-
+![png](/assets/img/researches/safe/highenvgif.gif)
 Proposed safety enhanced DRL approach could improve the driving performance, espeacially in safety metrics such as reducing collision rate, anticipated risk, etc.
-More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (in preparation, it will come soon)
+
+More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (under review, it will come soon)
 
 ### **Current Work**
 - Combination hard-constraints and policy optimization during safe training.

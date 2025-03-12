@@ -25,13 +25,17 @@ Firstly, the minimum road width required for one-step parking is calculated by c
 ![png](/assets/img/researches/parking/allalg.png)
 ![png](/assets/img/researches/parking/alg.png)
 
+AVP system demo in Tongji University：
+![gif](/assets/img/researches/parking/avpdemogif.gif)
+
 #### **This research havs supported many engineering projects**
 
 AVP system for SAIC Motor Corporation, Ltd. (mass-produced electric vehicle: Marvel X)
 ![png](/assets/img/researches/parking/marvelx.png)
 
 AVP system for New Energy Vehicle Corporation, Jiangxi Jiangling Motors Group.
-![png](/assets/img/researches/parking/jianglinproj.png)
+![gif](/assets/img/researches/parking/jianglinproj.png)
+![png](/assets/img/researches/parking/avptestgif.gif)
 
 Autonomous Parking of Tiev-Plus vehicl for China Future Challenge of Intelligent Vehicles 
 ![png](/assets/img/researches/parking/realtest.png)
