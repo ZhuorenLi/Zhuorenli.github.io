@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Control Granularity Research of RL-based Motion Planning"
-description: "DRL using parameterized action with sufficient control granularity, for flexible and smooth driving in complex environment. (From Dec 2023 to now)"
+description: "using skill primitive and parameterized action with sufficient control granularity for flexible and smooth driving. (From Dec 2023 to now)"
 img: assets/img/researches/CGRL/featured.png
 importance: 2
 category: work
@@ -60,5 +60,7 @@ The proposed hierarchical Reinforcement Learning method with hybrid Parameterize
 
 3. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024.
 
-### **Paper in Preparation:**
-1. Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Time-Scale Hierarchical RL for Motion Planning of Autonomous Driving," 2025.
+### **Submitted/In Progress:**
+1. Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving," 2025. [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
+
+2. Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Time-Scale Hierarchical RL for Motion Planning of Autonomous Driving," 2025.

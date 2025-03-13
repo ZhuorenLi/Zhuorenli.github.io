@@ -43,7 +43,7 @@ More details can be found in our recent paper "Safety Enhanced Reinforcement Lea
 2. **Zhuoren Li**, Lu Xiong, Bo Leng et.al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2023, pp. 1313-1319.
 3. R. Yang, **Z. Li**, B. Leng and L. Xiong, "Safe reinforcement learning for autonomous vehicles to make lane-change decisions: Constraint based on Incomplete Information Game Theory," *Int. Conf. Veh. Control and Intelligence (CVCI)*, 2023.
 
-### **Paper in Preparation:**
+### **Submitted/In Progress:**
 1. **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 2. Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way." *IEEE Trans. Intell. Transp. Syst.* (under review)
 3. Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Lu Xiong and Bo Leng, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *IEEE Robot. Autom. Lett.* (under review)
