@@ -5,7 +5,7 @@
 
 [1] Bo Leng, Lu Xiong, **Zhuoren Li\***, et.al. “Multi-Mode Evasion Assistance Control Method considering Human Driver Operation,” *Chin. J. Mech. Eng.* (accepted)
 
-[2]	Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* (accepted)
+[2]	Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* 2025, 38:30. [PDF](/assets/pdf/paper/Rule-Guidance Reinforcement Learning for Lane Change Decision-making - A Risk Assessment Approach.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-024-01160-z).
 
 [3]	**Zhuoren Li**, Jia Hu, Bo Leng, et al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," *IEEE Trans. Intell. Transp. Syst.*, vol. 25, no. 6, pp. 5718-5732, June 2024. [PDF](/assets/pdf/paper/An_Integrated_of_Decision_Making_and_Motion_Planning_Framework_for_Enhanced_Oscillation-Free_Capability.pdf), [DOI](https://ieeexplore.ieee.org/document/10328568).
 
