@@ -56,7 +56,7 @@ The proposed hierarchical Reinforcement Learning method with hybrid Parameterize
 ### **Publications:**
 1. **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving," *SAE Intell. Connected Veh. Symposium (SAE ICVS)*, 2024. [PDF](/assets/pdf/paper/2024SAEICVS 2024-01-7035.pdf), [DOI](https://www.sae.org/publications/technical-papers/content/2024-01-7035/).
 
-2. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024.
+2. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024, pp. 3020-3026.
 
 ### **Submitted/In Progress:**
 1. Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving," 2025. [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).

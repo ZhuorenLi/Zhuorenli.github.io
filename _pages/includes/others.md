@@ -11,7 +11,7 @@
 
 [4]	**Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving," *SAE Intell. Connected Veh. Symposium (SAE ICVS)*, 2024. [PDF](/assets/pdf/paper/2024SAEICVS 2024-01-7035.pdf), [DOI](https://www.sae.org/publications/technical-papers/content/2024-01-7035/).
 
-[5]	Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action,” *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024.
+[5]	Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action,” *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024, pp. 3020-3026. [pdf](/assets/pdf/paper/ITSC2024.pdf), [DOI](https://ieeexplore.ieee.org/document/10920092).
 
 [6]	**Zhuoren Li**, Lu Xiong, Bo Leng et al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2023, pp. 1313-1319. [PDF](/assets/pdf/paper/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
 
