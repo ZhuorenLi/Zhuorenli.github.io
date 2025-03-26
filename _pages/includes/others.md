@@ -27,13 +27,13 @@
 <!-- 💬 -->
 [1]	Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving,"  *IEEE Trans. Neural Netw. Learn. Sys.* (under review). [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
 
-[2] Bo Leng, Ran Yu, Wei Han, Bo Leng, Lu Xiong, **Zhuoren Li\*** and, Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *IEEE Trans. Intell. Transp. Syst.* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf)[arXiv](http://arxiv.org/abs/2503.19690).
+[2] Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” * Eng. Appl. Artif. Intel* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf), [arXiv](http://arxiv.org/abs/2503.19690).
         
 [3] **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
-[4] Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al., “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp. Syst.* (under review)
+[4] Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
-[5] **Zhuoren Li**, Guizhe Jin, Ran Yu, et al., “A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective.”
+[5] **Zhuoren Li**, Guizhe Jin, Ran Yu, Zhiwen Chen, Wei Han, Nan Li, Lu Xiong, Bo Leng, Jia Hu, Ilya Kolmanovsky and Dimitar Filev, “A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective.”
 
 [6]	Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Hybrid Time-Scale Hierarchical Reinforcement Learning for Motion Planning.”
 

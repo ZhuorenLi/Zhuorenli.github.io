@@ -46,4 +46,4 @@ More details can be found in our recent paper "Safety Enhanced Reinforcement Lea
 ### **Submitted/In Progress:**
 1. **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 2. Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way." *IEEE Trans. Intell. Transp. Syst.* (under review)
-3. Bo Leng, Ran Yu, Wei Han, Bo Leng, Lu Xiong, **Zhuoren Li\*** and, Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *IEEE Trans. Intell. Transp. Syst.* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf)[arXiv](http://arxiv.org/abs/2503.19690).
+3. Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” * Eng. Appl. Artif. Intel* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf) [arXiv](http://arxiv.org/abs/2503.19690).
