@@ -11,7 +11,7 @@
 
 [4]	**Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving," *SAE Intell. Connected Veh. Symposium (SAE ICVS)*, 2024. [PDF](/assets/pdf/paper/2024SAEICVS 2024-01-7035.pdf), [DOI](https://www.sae.org/publications/technical-papers/content/2024-01-7035/).
 
-[5]	Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action,” *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024, pp. 3020-3026. [pdf](/assets/pdf/paper/ITSC2024.pdf), [DOI](https://ieeexplore.ieee.org/document/10920092).
+[5]	Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action,” *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024, pp. 3020-3026. [PDF](/assets/pdf/paper/ITSC2024.pdf), [DOI](https://ieeexplore.ieee.org/document/10920092).
 
 [6]	**Zhuoren Li**, Lu Xiong, Bo Leng et al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2023, pp. 1313-1319. [PDF](/assets/pdf/paper/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
 
@@ -21,13 +21,13 @@
 
 [9] **Zhuoren Li**, Lu Xiong, Bo Leng, et al., "Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization," *SAE Technical Papers*, 2022-01-0085, 2022. [PDF](/assets/pdf/paper/Path_Planning_Method_for_Perpendicular_Parking_based_on_Vehicle_Kinematics_Model_using_MPC_Optimization.pdf), [DOI](https://saemobilus.sae.org/papers/path-planning-method-perpendicular-parking-based-vehicle-kinematics-model-using-mpc-optimization-2022-01-0085).
 
-[10] **Zhuoren Li**, Lu Xiong, Dequan Zeng, et al., "Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve," *IFAC-PapersOnLine*, 2021, 54(10): 51-58. [PDF](/assets/pdf/paper/Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve.pdf), [DOI](https://www.sciencedirect.com/science/article/pii/S2405896321015421?via%3Dihub). 
+[10] **Zhuoren Li**, Lu Xiong, Dequan Zeng, et al., "Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve," *IFAC-PapersOnLine*, 2021, 54(10): 51-58. [PDF](/assets/pdf/paper/2021B-splineCurvePlanner.pdf), [DOI](https://www.sciencedirect.com/science/article/pii/S2405896321015421?via%3Dihub). 
 
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
-[1]	Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving," 2025. [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
+[1]	Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving,"  *IEEE Trans. Neural Netw. Learn. Sys.* (under review). [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
 
-[2] Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Lu Xiong and Bo Leng, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *IEEE Trans. Intell. Transp. Syst.* (under review)
+[2] Bo Leng, Ran Yu, Wei Han, Bo Leng, Lu Xiong, **Zhuoren Li\*** and, Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *IEEE Trans. Intell. Transp. Syst.* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf)[arXiv](http://arxiv.org/abs/2503.19690).
         
 [3] **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
