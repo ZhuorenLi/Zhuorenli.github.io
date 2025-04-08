@@ -33,9 +33,11 @@
         
 [4] **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
-[5] Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp. Syst.* (under review)
+[5]	Bo Leng, Ran Yu, **Zhuoren Li\***, et.al, “Integrated Decision-Making and Motion Planning based on Hybrid MPC,” *IEEE/ASME Trans. Mechatron.* (under review)
 
-[6]	Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Hybrid Time-Scale Hierarchical Reinforcement Learning for Motion Planning.”
+[6] Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp. Syst.* (under review)
+
+[7]	Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Hybrid Time-Scale Hierarchical Reinforcement Learning for Motion Planning.” *IEEE Robot. Autom. Lett.* (under review)
 
 
 
