@@ -59,6 +59,7 @@ The proposed hierarchical Reinforcement Learning method with hybrid Parameterize
 2. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024, pp. 3020-3026.
 
 ### **Submitted/In Progress:**
-1. Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving," 2025. [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
+1. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving,"  *IEEE Trans. Neural Netw. Learn. Sys.* (under review). [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
 
-2. Guizhe Jin, **Zhuoren Li**, Bo Leng, et al. "Hybrid Time-Scale Hierarchical RL for Motion Planning of Autonomous Driving," 2025.
+
+2. Guizhe Jin, **Zhuoren Li**, Bo Leng and Lu Xiong, "Hybrid Time-Scale Hierarchical RL for Motion Planning of Autonomous Driving," 2025.
