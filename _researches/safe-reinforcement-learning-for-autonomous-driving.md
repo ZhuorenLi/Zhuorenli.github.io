@@ -25,9 +25,11 @@ Proposeing a safety enhanced deep reinforcement learning for autonomous motion p
 
 #### **Some Results**
 ![png](/assets/img/researches/safe/traincurve.png) 
-![png](/assets/img/researches/safe/testTR.png) 
+![png](/assets/img/researches/safe/testTR.png)
+
+
 ![png](/assets/img/researches/safe/highenvgif.gif)
-Proposed safety enhanced DRL approach could improve the driving performance, espeacially in safety metrics such as reducing collision rate, anticipated risk, etc.
+Proposing safety enhanced DRL approach could improve the driving performance, espeacially in safety metrics such as reducing collision rate, anticipated risk, etc.
 
 More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (under review, it will come soon)
 
@@ -35,15 +37,30 @@ More details can be found in our recent paper "Safety Enhanced Reinforcement Lea
 Collaborating student: *Ran Yu, 1st-year Gruaduate Student*.
 
 #### **Motivation**
-Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
+The inability to handle the dynamic changes in the number and permutation of surroundings traffic participants may make it difficult for AVs to identify potential risks and adopt unsafe strategies. Moreover, the complex information at these intersections requires the AV to identify pivotal data to ascertain the timing of passage.
 
 ![png](/assets/img/researches/safe/featured2.png) 
+
+A risk-aware RL approach is proposed to improve safety and efficiency for driving through intersection.
+
+#### **Highlights**
+- Safe critics are constructed to evaluate driving risk and work in conjunction with the reward critic to update the actor. 
+- A Lagrangian relaxation method is incorporated to generate approximate safe actions, which are projected into a feasible safe region with safety iterative correction by cyclic gradient descent.
+- A Multi-hop and Multi-layer perception mixed Attention Mechanism (MMAM) integrated into the actorcritic network enables the policy to adapt to dynamic traffic and overcome permutation sensitivity challenges, enhancing scene understanding and improving decision-making timing when navigating intersections.
+
+#### **Some Results**
+We compare Attention embedded and Risk-aware Soft Actor Critic (ARSAC) to the following baselines: SAC-RS, PPO-RS, which incorporate an auxiliary reward 𝐫_𝑠𝑎𝑓𝑒 compared to standard SAC and PPO; SAC-Lag and CPO. The implementation of SAC-Lag and CPO are based on Omnisafe Library.
+![png](/assets/img/researches/safe/EAAIresult1.png) 
+![png](/assets/img/researches/safe/EAAIresult2.png) 
+
+Results indicate that the proposed ARSAC algorithm outperforms or matches all other baseline algorithms across three driving tasks in terms of the final performance. Meanwhile, ablation studies demonstrate the specific role of different modules.
+
+![png](/assets/img/researches/safe/EAAIcase1.png) 
+![png](/assets/img/researches/safe/EAAIcase2.png) 
 
 ### **Current Work**
 - Combination hard-constraints and policy optimization during safe training.
 - A learnable evaluation module to predict the anticipated risk.
-- Considering interaction features in critic network design based on Game-Theory.
-- Application of self-attention mechanisms in policy network design
 
 
 ### **Publications:**
