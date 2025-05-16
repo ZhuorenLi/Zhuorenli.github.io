@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "LLM enhanced RL for AD"
+title: "LLM enhanced RL for Autonomous Driving"
 description: "Enhancing scenario understanding ablility for RL agent using LLM while suppressing the hallucinatory problems. (From Dec. 2024 to now)"
 img: /assets/img/researches/LLM/featured.png
 importance: 2
@@ -26,11 +26,14 @@ We argue that maintaining relative independence between the LLM and the RL agent
 - We propose a novel motion planning architecture named HCRMP. By combining the semantic hints for policy optimization and state augmentation provided by LLM with the self-learning capabilities of RL, it significantly improves driving performance in diverse driving conditions.
 
 #### **Some Results**
-![png](/assets/img/researches/safe/table1.png) 
+
+HCRMP matches or outperforms other baselines in different driving conditions, particularly in medium- and high-density driving conditions, where it achieves an average success rate of 89.5%.
+
+![png](/assets/img/researches/LLM/table1.png) 
 ![png](/assets/img/researches/LLM/table2.png)
 
 
 
 
 ### **Submitted/In Progress:**
-
+1. Zhiwen Chen, Zhuoren Li, Bo Leng, et al., "HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving".
