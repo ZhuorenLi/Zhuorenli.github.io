@@ -9,7 +9,7 @@ related_publications: false
 horizontal: true
 ---
 ### **Safe DRL with risk evaluation and dangerous momry enhancement**
-Collaborating student: *Ruolin Yang, Gruaduated Student*; *Ran Yu, 1st-year Gruaduate Student*.
+Collaborating student: *Ruolin Yang, Gruaduated Student*; *Guizhe Jin, 2st-year Gruaduate Student*.
 
 #### **Motivation**
 Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
@@ -30,6 +30,14 @@ Proposeing a safety enhanced deep reinforcement learning for autonomous motion p
 Proposed safety enhanced DRL approach could improve the driving performance, espeacially in safety metrics such as reducing collision rate, anticipated risk, etc.
 
 More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (under review, it will come soon)
+
+### **Risk-awre RL based on Safe Critic and Iterative Action Correction**
+Collaborating student: *Ran Yu, 1st-year Gruaduate Student*.
+
+#### **Motivation**
+Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
+
+![png](/assets/img/researches/safe/featured2.png) 
 
 ### **Current Work**
 - Combination hard-constraints and policy optimization during safe training.
