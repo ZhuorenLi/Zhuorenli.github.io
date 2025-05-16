@@ -36,4 +36,4 @@ HCRMP matches or outperforms other baselines in different driving conditions, pa
 
 
 ### **Submitted/In Progress:**
-1. Zhiwen Chen, Zhuoren Li, Bo Leng, et al., "HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving".
+1. Zhiwen Chen, **Zhuoren Li**, Bo Leng, et al., "HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving".
