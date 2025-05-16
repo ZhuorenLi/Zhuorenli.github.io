@@ -11,28 +11,26 @@ horizontal: true
 ### **HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**
 Collaborating student: *Zhiwen Chen, 1st-year Ph.D. Student*.
 
+![png](/assets/img/researches/LLM/frame.png)
+
 #### **Motivation**
-Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
+Integrating the understanding and reasoning capabilities of Large LanguageModels (LLM) with the self-learning capabilities of Reinforcement Learning (RL) enables more reliable driving performance under complex driving conditions. However, there is a strong reliance of current RL methods on LLM outputs and these methods are strongly influenced by the LLM hallucinations.
 
-![png](/assets/img/researches/safe/featured.png) 
+We argue that maintaining relative independence between the LLM and the RL agent is vital for solving the hallucinations problem. An LLM-Hinted RL motion planning paradigm is proposed, and an architecture called HCRMP (LLM-Hinted
+72 Contextual Reinforcement Learning Motion Planner) is developed.
 
-Proposeing a safety enhanced deep reinforcement learning for autonomous motion planning in lane-changing maneuver. The goal of this work is to design a DRL motion planner, which dares to make mistakes to learn the safe driving policy faster and better.
+![png](/assets/img/researches/LLM/featured.png) 
 
 #### **Highlights**
-- Evaluate the future motion risk by projecting DRL behavior action into the feasible trajectory, while sorrunding vehicles' trajecotires are obtained from the prediction module.
-- Dangerous action will be prevented and the dangerous virtual experiences are recoreded to gain various valuable experience data.
-- Dangerous experiences are sampled with priority weight according their anticipated risk, enabling DRL agnet to learn a safer policy.
+- We explain the strong reliance on LLM outputs, and highlight the problem that hallucinations from the LLM can degrade driving performance. we propose the LLM-Hinted RL paradigm to address these challenges.
+- We propose a novel motion planning architecture named HCRMP. By combining the semantic hints for policy optimization and state augmentation provided by LLM with the self-learning capabilities of RL, it significantly improves driving performance in diverse driving conditions.
 
 #### **Some Results**
-<!-- ![png](/assets/img/researches/safe/traincurve.png) 
-![png](/assets/img/researches/safe/testTR.png) -->
+![png](/assets/img/researches/safe/table1.png) 
+![png](/assets/img/researches/LLM/table2.png)
 
-Proposing safety enhanced DRL approach could improve the driving performance, espeacially in safety metrics such as reducing collision rate, anticipated risk, etc.
 
-More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (under review, it will come soon)
 
 
 ### **Submitted/In Progress:**
-1. **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
-2. Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way." *IEEE Trans. Intell. Transp. Syst.* (under review)
-3. Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *Eng. Appl. Artif. Intel* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf) [arXiv](http://arxiv.org/abs/2503.19690).
+
