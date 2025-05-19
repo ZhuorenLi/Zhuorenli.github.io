@@ -56,8 +56,8 @@ socials_in_search: fasle
 bib_search: fasle
 
 # Dimensions
-# max_width: 980px
-max_width: 560px
+# max_width: 980px  #整个网页内容的宽度
+max_width: 1060px
 
 # TODO: add layout settings (single page vs. multi-page)
 
