@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Safe RL for Autonomous Driving"
+title: "Risk-Aware Safe RL for Autonomous Driving"
 description: "Enhancing the safety performance of RL-based motion planning by prior-knowledge designed safety constraints. (From Sept 2022 to now)"
 img: /assets/img/researches/safe/featured.png
 importance: 1
