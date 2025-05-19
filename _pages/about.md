@@ -35,7 +35,7 @@ social: true # includes social icons at the bottom of the page
 
 📈 My current research interest includes Safe Reinforcement Learning for Motion Planning of Autonomous Vehicles, Interactive Decision-Making, and Smooth Motion Planning, etc. 
 
-I plan to finish my Ph.D. study in Oct. 2025, and I'm looking for a post-doctoral position.
+I plan to complete my Ph.D. in Oct. 2025, and I'm looking for a post-doctoral position.
 
 
 
