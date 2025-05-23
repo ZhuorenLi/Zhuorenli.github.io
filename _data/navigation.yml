@@ -22,7 +22,8 @@ main:
     url: "/#-academic-services"
 
   - title: "CV"
-    url: "/assets/pdf/Zhuoren_Patrick_Li_CV.pdf"    
+    # url: "/assets/pdf/Zhuoren_Patrick_Li_CV.pdf"
+    url: "/assets/pdf/Zhuoren_Li_CV.pdf"  
 
   # - title: "Internships"
   #   url: "/#-internships"
