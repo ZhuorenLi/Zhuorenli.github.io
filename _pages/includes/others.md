@@ -15,13 +15,19 @@
 
 [6]	**Zhuoren Li**, Lu Xiong, Bo Leng et al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2023, pp. 1313-1319. [PDF](/assets/pdf/paper/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
 
-[7]	**Zhuoren Li**, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in *Proc. IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2022, pp. 937-944. [PDF](/assets/pdf/paper/A_Unified_Trajectory_Planning_and_Tracking_Control_Framework_for_Autonomous_Overtaking_Based_on_Hierarchical_MPC.pdf), [DOI](https://ieeexplore.ieee.org/document/9922186).
+[7] Lu Xiong, Yizhuo Guan, Bo Leng, **Zhuoren Li**, A Probabilistic Method for Behavior Prediction of Intelligent and Connected Vehicles in Freeway, *Autom. Mach. Learn.*, vol. 4, no. 3, 2023. [PDF](/assets/pdf/article_1700793977.pdf), [DOI](https://www.clausiuspress.com/article/9892.html).
 
-[8]	**Zhuoren Li**, Bo Leng, Chagen Luo, et al., "A Real-time Path Planner based on Improved Tentacle algorithm for Autonomous Vehicles," in *Proc. IEEE Int. Conf. Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)*, 2022, pp. 629-634. [PDF](/assets/pdf/paper/A_Real-time_Path_Planner_based_on_Improved_Tentacle_Algorithm_for_Autonomous_Vehicles.pdf), [DOI](https://ieeexplore.ieee.org/document/9985832).
+[8]	**Zhuoren Li**, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in *Proc. IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2022, pp. 937-944. [PDF](/assets/pdf/paper/A_Unified_Trajectory_Planning_and_Tracking_Control_Framework_for_Autonomous_Overtaking_Based_on_Hierarchical_MPC.pdf), [DOI](https://ieeexplore.ieee.org/document/9922186).
 
-[9] **Zhuoren Li**, Lu Xiong, Bo Leng, et al., "Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization," *SAE Technical Papers*, 2022-01-0085, 2022. [PDF](/assets/pdf/paper/Path_Planning_Method_for_Perpendicular_Parking_based_on_Vehicle_Kinematics_Model_using_MPC_Optimization.pdf), [DOI](https://saemobilus.sae.org/papers/path-planning-method-perpendicular-parking-based-vehicle-kinematics-model-using-mpc-optimization-2022-01-0085).
+[9]	**Zhuoren Li**, Bo Leng, Chagen Luo, et al., "A Real-time Path Planner based on Improved Tentacle algorithm for Autonomous Vehicles," in *Proc. IEEE Int. Conf. Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)*, 2022, pp. 629-634. [PDF](/assets/pdf/paper/A_Real-time_Path_Planner_based_on_Improved_Tentacle_Algorithm_for_Autonomous_Vehicles.pdf), [DOI](https://ieeexplore.ieee.org/document/9985832).
 
-[10] **Zhuoren Li**, Lu Xiong, Dequan Zeng, et al., "Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve," *IFAC-PapersOnLine*, 2021, 54(10): 51-58. [PDF](/assets/pdf/paper/2021B-splineCurvePlanner.pdf), [DOI](https://www.sciencedirect.com/science/article/pii/S2405896321015421?via%3Dihub). 
+[10] **Zhuoren Li**, Lu Xiong, Bo Leng, et al., "Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization," *SAE Technical Papers*, 2022-01-0085, 2022. [PDF](/assets/pdf/paper/Path_Planning_Method_for_Perpendicular_Parking_based_on_Vehicle_Kinematics_Model_using_MPC_Optimization.pdf), [DOI](https://saemobilus.sae.org/papers/path-planning-method-perpendicular-parking-based-vehicle-kinematics-model-using-mpc-optimization-2022-01-0085).
+
+[11] **Zhuoren Li**, Lu Xiong, Dequan Zeng, et al., "Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve," *IFAC-PapersOnLine*, 2021, 54(10): 51-58. [PDF](/assets/pdf/paper/2021B-splineCurvePlanner.pdf), [DOI](https://www.sciencedirect.com/science/article/pii/S2405896321015421?via%3Dihub). 
+
+[12] Dequan Zeng, Zhuoping Yu, Lu Xiong, Zhigiang Fu, **Zhuoren Li**, et al.,"HFO-LADRC lateral motion controller for autonomous road sweeper," *Sensors*, 20(8), 2274. [PDF](/assets/pdf/paperHFO-LADRC.pdf), [DOI](https://www.mdpi.com/1424-8220/20/8/2274).
+
+More publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=5HSKGBUAAAAJ&hl=en).
 
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
