@@ -39,8 +39,7 @@
 
 [7]	Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Hybrid Time-Scale Hierarchical Reinforcement Learning for Motion Planning.” *IEEE Robot. Autom. Lett.* (under review)
 
-[8] Zhiwen Chen, **Zhuoren Li**, Bo Leng, et al., "HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving".
-
+[8] Zhiwen Chen, Bo Leng, **Zhuoren Li**, et al., "HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving". [arXiv](https://arxiv.org/abs/2505.15793)
 
 
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
