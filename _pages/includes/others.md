@@ -31,7 +31,7 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
-- Ran Yu, **Zhuoren Li\***, Lu Xiong, et al. "Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections," *Intell. Transp. Syst. Conf. (ITSC)*. (under review) [PDF](/assets/pdf/paper/HOCBF-RL.pdf) [arXiv](https://arxiv.org/abs/2505.19939).
+- Ran Yu, **Zhuoren Li\***, Lu Xiong, et al. "Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections," *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (under review) [PDF](/assets/pdf/paper/HOCBF-RL.pdf) [arXiv](https://arxiv.org/abs/2505.19939).
 
 - Zhiwen Chen, Bo Leng, **Zhuoren Li**, et al., "HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving". [arXiv](https://arxiv.org/abs/2505.15793)
 
