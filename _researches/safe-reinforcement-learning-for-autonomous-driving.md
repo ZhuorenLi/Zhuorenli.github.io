@@ -8,11 +8,33 @@ category: work
 related_publications: false
 horizontal: true
 ---
-### **Safe DRL with risk evaluation and dangerous momry enhancement**
-Collaborating student: *Ruolin Yang, Gruaduated Student*; *Guizhe Jin, 2st-year Gruaduate Student*.
+### **Uncertainty-aware safe RL for safety-critical decision and control with high-order CBF**
+Collaborating student: *Ran Yu, 1st-year Gruaduate Student*.
 
 #### **Motivation**
-Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
+CBF-RL has become popular in the field of safe RL control in recent years. However, due to the high relative degree between the standard CBF and the underlying system control inputs, the safety can be compromised due to the inability to constrain the higher-order dynamics resulting in transient transgressions of the lower-order constraints.
+
+Additionally, cognitive limitations and environmental randomness can lead to unreliable decisions in safety-critical scenarios. The estimated uncertainty of RL policy can provide a design basis for the dynamic adjustment of CBF constraints.
+
+![png](/assets/img/researches/safe/HOCBF-RLframe.png)
+
+Therefore, this work generates a risk-averse policy by constructing a risk-aware ensemble distributional RL, while estimating uncertainty to quantify the policy’s reliability. A high-order control barrier function (HOCBF) is employed as a safety filter to minimize intervention policy while dynamically enhancing constraints based on uncertainty.
+
+#### **Highlights**
+- Propose a risk-aware distributional RL ensemble architecture that combines the original and Fixed Prior Networks (FPN) to build the critic. It quantifies tail risk in the reward distribution and generates a risk-averse policy, while jointly estimating epistemic uncertainty and aleatoric uncertainty for dual uncertainty-driven decision-making.
+- A high-order control barrier function (HOCBF) is constructed,  which ensures safety using only relative distance. Moreover, HOCBF incorporates JU to dynamically  adjust safety constraints, balancing safety and traffic efficiency.
+
+#### **Some Results**
+![png](/assets/img/researches/safe/HOCBFresult.png) 
+![png](/assets/img/researches/safe/HOCBFcase.png)
+
+More details can be found in our recent paper "Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections." (under review) [PDF](/assets/pdf/paper/HOCBF-RL.pdf)
+
+### **Safe DRL with risk evaluation and dangerous momry enhancement**
+Collaborating student: *Guizhe Jin, 2st-year Gruaduate Student*.
+
+#### **Motivation**
+Evaluating the anticipated safety risk in the long time domain can provide better safety guidance for driving behavior decisions. Explicitly constructing future trajectories corresponding to RL actions coudld make it conveniently combined with risk evaluation.
 
 ![png](/assets/img/researches/safe/featured.png) 
 
@@ -31,7 +53,7 @@ Proposeing a safety enhanced deep reinforcement learning for autonomous motion p
 ![png](/assets/img/researches/safe/highenvgif.gif)
 Proposing safety enhanced DRL approach could improve the driving performance, espeacially in safety metrics such as reducing collision rate, anticipated risk, etc.
 
-More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (under review, it will come soon)
+More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better". (under review, it will come soon) and "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint". [PDF](/assets/pdf/paper/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
 
 ### **Risk-awre RL based on Safe Critic and Iterative Action Correction**
 Collaborating student: *Ran Yu, 1st-year Gruaduate Student*.
@@ -58,17 +80,20 @@ Results indicate that the proposed ARSAC algorithm outperforms or matches all ot
 ![png](/assets/img/researches/safe/EAAIcase1.png) 
 ![png](/assets/img/researches/safe/EAAIcase2.png) 
 
+More details can be found in our recent paper "Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection." (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf)
+
 ### **Current Work**
-- Combination hard-constraints and policy optimization during safe training.
+- Combination CBF-based constraints and intrinsic reward optimization to accommodate safety and efficiency objectives.
 - A learnable evaluation module to predict the anticipated risk.
 
 
 ### **Publications:**
-1. Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* 2025, 38:30.
-2. **Zhuoren Li**, Lu Xiong, Bo Leng et.al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2023, pp. 1313-1319.
+1. Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* 2025, 38:30. [PDF](/assets/pdf/paper/Rule-Guidance Reinforcement Learning for Lane Change Decision-making - A Risk Assessment Approach.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-024-01160-z)
+2. **Zhuoren Li**, Lu Xiong, Bo Leng et.al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2023, pp. 1313-1319. [PDF](/assets/pdf/paper/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
 3. R. Yang, **Z. Li**, B. Leng and L. Xiong, "Safe reinforcement learning for autonomous vehicles to make lane-change decisions: Constraint based on Incomplete Information Game Theory," *Int. Conf. Veh. Control and Intelligence (CVCI)*, 2023.
 
 ### **Submitted/In Progress:**
-1. **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
-2. Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way." *IEEE Trans. Intell. Transp. Syst.* (under review)
-3. Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *Eng. Appl. Artif. Intel* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf) [arXiv](http://arxiv.org/abs/2503.19690).
+1. Ran Yu, **Zhuoren Li\***, Lu Xiong, et al. "Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections," *Intell. Transp. Syst. Conf. (ITSC)*. (under review) [PDF](/assets/pdf/paper/HOCBF-RL.pdf) [arXiv](https://arxiv.org/abs/2505.19939).
+2. **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
+3. Ruolin Yang, **Zhuoren Li**, Bo Leng, et.al.，"Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way." *IEEE Trans. Intell. Transp. Syst.* (under review)
+4. Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *Eng. Appl. Artif. Intel* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf) [arXiv](http://arxiv.org/abs/2503.19690).
