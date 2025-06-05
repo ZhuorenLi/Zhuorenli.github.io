@@ -4,6 +4,18 @@
 ## 🎙 Speech Synthesis -->
 
 
+#### 🎙 Interactive Learning-based Decision Control for Intelligent Vehicles with Roadside Information Enhancement
+
+###### Chongqing Changan Automobile Co., Ltd., Apr. 2025 – Present, - Role: Student Technical Director 
+
+Responsibilities include:
+ - Comprehensive task management.
+ - Designed an Interaction-aware RL motion planning algorithm combining with game theory guidance
+
+  
+***
+
+
 #### 🎙 High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
 
 ###### National Natural Science Foundation of China, Jan. 2024 – Present, - Role: Student Technical Director 
