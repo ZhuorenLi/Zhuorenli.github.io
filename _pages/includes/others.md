@@ -3,7 +3,7 @@
 
 ## ***Journal & Conference Publications:***
 
-- Bo Leng, Lu Xiong, **Zhuoren Li\***, et.al. “Multi-Mode Evasion Assistance Control Method considering Human Driver Operation,” *Chin. J. Mech. Eng.* (accepted)
+- Bo Leng, Lu Xiong, **Zhuoren Li\***, et.al. “Multi-mode Evasion Assistance Control Method for Intelligent Distributed-drive Electric Vehicle Considering Human Driver’s Reaction,” *Chin. J. Mech. Eng.* 2025, 38: 102. [PDF](/assets/pdf/paper/2025MEAC.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-025-01270-2).
 
 - Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* 2025, 38:30. [PDF](/assets/pdf/paper/Rule-Guidance Reinforcement Learning for Lane Change Decision-making - A Risk Assessment Approach.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-024-01160-z).
 
@@ -43,7 +43,7 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
         
 - **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
-- Bo Leng, Ran Yu, **Zhuoren Li\***, et.al, “Integrated Decision-Making and Motion Planning based on Hybrid MPC,” *IEEE/ASME Trans. Mechatron.* (under review)
+- Bo Leng, Ran Yu, **Zhuoren Li\***, et.al, “Integrated Decision-Making and Motion Planning Framework for Autonomous Driving based on Hybrid Model Predictive Control,” *IEEE/ASME Trans. Mechatron.* (under review)
 
 - Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
