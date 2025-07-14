@@ -45,9 +45,9 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 - Bo Leng, Ran Yu, **Zhuoren Li\***, et.al, “Integrated Decision-Making and Motion Planning Framework for Autonomous Driving based on Hybrid Model Predictive Control,” *IEEE/ASME Trans. Mechatron.* (under review)
 
-- Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp. Syst.* (under review)
+- Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Transp. Syst.* (under review, R2)
 
-- Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Hybrid Time-Scale Hierarchical Reinforcement Learning for Motion Planning.” *IEEE Robot. Autom. Lett.* (under review)
+- Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving.” *IEEE Robot. Autom. Lett.* (under review) [arXiv](https://arxiv.org/pdf/2506.23771)
 
 
 
