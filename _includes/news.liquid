@@ -27,9 +27,9 @@
                 <h2 class="new_item_card-title">{{ item.title }}</h2>
                 </a>
                 <p class="new_item_card-text">{{ item.description }}</p>
-
+                {% comment %} 临时隐藏日期显示
                 <div class="new_item_time"> {{ item.date | date: '%b %d, %Y' }}</div>
-               
+                {% endcomment %}
               </div>
             </div>
           {% endif %}
