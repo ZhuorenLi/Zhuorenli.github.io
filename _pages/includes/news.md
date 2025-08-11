@@ -8,6 +8,6 @@
 
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
-
+- *2023.05*: 🎉 Five papers are accepted by ACL 2023
 {% include news.liquid %}
   </div>
