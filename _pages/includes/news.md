@@ -8,14 +8,12 @@
 
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
-<ul>
-  <span style="font-size: 0.8em;">- <em>2025.08</em>: 🎉 One Paper is accepted by IEEE Trans. Intell. Transp. Syst.</span>
-</ul>
-<ul>
-  <span style="font-size: 0.8em;">- <em>2025.06</em>: 🎉 One Paper is accepted by Chin. J. Mech. Eng.</span>
-</ul>
-<ul>
-  <span style="font-size: 0.8em;">- <em>2025.03</em>: 🎉 One Paper is accepted by Chin. J. Mech. Eng.</span>
-</ul>
+
+● <em>2025.08</em>: 🎉 One Paper is accepted by IEEE Trans. Intell. Transp. Syst.</span>
+
+● <em>2025.06</em>: 🎉 One Paper is accepted by Chin. J. Mech. Eng.</span>
+
+● <em>2025.03</em>: 🎉 One Paper is accepted by Chin. J. Mech. Eng.</span>
+
 {% include news.liquid %}
   </div>
