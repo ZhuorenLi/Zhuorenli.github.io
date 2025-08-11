@@ -13,6 +13,7 @@
 • <em>2025.06</em> : 🎉🎉 One Paper was accepted by <em>Chinese Journal of Mechanical Engineering.</em> (Q1, if 4.5) <br>
 • <em>2025.03</em> : 🎉🎉 One Paper was accepted by <em>Chinese Journal of Mechanical Engineering.</em> (Q1, if 4.5)<br>
 • <em>2024.10</em> : 🎉🎉 One Paper won the SAE International Outstanding Technical Paper Award in <em>SAE ICVS 2024.</em><br>
-• <em>2024.10</em> : 🎉🎉 One Paper was presented in <em>IEEE Intelligent Transportation Systems Conference (ITSC) 2024.</em><br>
-
+• <em>2024.09</em> : 🎉🎉 One Paper was presented in <em>IEEE Intelligent Transportation Systems Conference (ITSC) 2024.</em><br>
+• <em>2023.10</em> : 🎉🎉 One Paper was accepted by <em>IEEE Transactions on Intelligent Transportation Systems. </em> (Q1, if 8.4)<br>
+• <em>2023.09</em> : 🎉🎉 Two Paper were presented in <em>IEEE Intelligent Transportation Systems Conference (ITSC) 2023.</em><br>
   </div>
