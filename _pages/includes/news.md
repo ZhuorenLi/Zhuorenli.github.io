@@ -9,11 +9,11 @@
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
 
-● <em>2025.08</em>: 🎉 One Paper is accepted by IEEE Trans. Intell. Transp. Syst.
+• <em>2025.08</em>: 🎉 One Paper is accepted by *IEEE Trans. Intell. Transp. Syst.* <br>
 
-● <em>2025.06</em>: 🎉 One Paper is accepted by Chin. J. Mech. Eng.
+• <em>2025.06</em>: 🎉 One Paper is accepted by *Chin. J. Mech. Eng.* <br>
 
-● <em>2025.03</em>: 🎉 One Paper is accepted by Chin. J. Mech. Eng.
+• <em>2025.03</em>: 🎉 One Paper is accepted by *Chin. J. Mech. Eng.* <br>
 
 {% include news.liquid %}
   </div>
