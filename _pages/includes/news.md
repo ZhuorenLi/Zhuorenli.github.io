@@ -8,6 +8,14 @@
 
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
+<ul>
+  <span style="font-size: 0.8em;">- <em>2025.08</em>: 🎉 One Paper is accepted by IEEE Trans. Intell. Transp. Syst.</span>
+</ul>
+<ul>
+  <span style="font-size: 0.8em;">- <em>2025.06</em>: 🎉 One Paper is accepted by Chin. J. Mech. Eng.</span>
+</ul>
+<ul>
+  <span style="font-size: 0.8em;">- <em>2025.03</em>: 🎉 One Paper is accepted by Chin. J. Mech. Eng.</span>
+</ul>
 {% include news.liquid %}
   </div>
