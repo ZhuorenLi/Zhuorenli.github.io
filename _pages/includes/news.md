@@ -9,11 +9,13 @@
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
 
-• <em>2025.08</em> : 🎉 One Paper is accepted by <em>IEEE Trans. Intell. Transp. Syst.</em> <br>
+• <em>2025.08</em> : 🎉🎉 One Paper was accepted by <em>IEEE Transactions on Intelligent Transportation Systems. </em> (Q1, if 8.4)<br>
 
-• <em>2025.06</em> : 🎉 One Paper is accepted by <em>Chin. J. Mech. Eng.</em> <br>
+• <em>2025.06</em> : 🎉🎉 One Paper was accepted by <em>Chinese Journal of Mechanical Engineering.</em> (Q1, if 4.5) <br>
 
-• <em>2025.03</em> : 🎉 One Paper is accepted by <em>Chin. J. Mech. Eng.</em> <br>
+• <em>2025.03</em> : 🎉🎉 One Paper was accepted by <em>Chinese Journal of Mechanical Engineering.</em> (Q1, if 4.5)<br>
 
-{% include news.liquid %}
+• <em>2024.10</em> : 🎉🎉 One Paper won the SAE International Outstanding Technical Paper Award in SAE ICVS 2024.<br>
+
+<!-- {% include news.liquid %} -->
   </div>
