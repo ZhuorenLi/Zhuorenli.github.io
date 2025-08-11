@@ -15,5 +15,4 @@
 • <em>2024.10</em> : 🎉🎉 One Paper won the SAE International Outstanding Technical Paper Award in <em>SAE ICVS 2024.</em><br>
 • <em>2024.10</em> : 🎉🎉 One Paper was presented in <em>ITSC 2024.</em><br>
 
-<!-- {% include news.liquid %} -->
   </div>
