@@ -3,6 +3,8 @@
 
 ## ***Journal & Conference Publications:***
 
+- Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way,” *IEEE Trans. Intell. Transp. Syst.*, early access. [PDF](/assets/pdf/paper/2025CHRL.pdf), [DOI](https://ieeexplore.ieee.org/document/11130420) 
+
 - Bo Leng, Lu Xiong, **Zhuoren Li\***, et.al. “Multi-mode Evasion Assistance Control Method for Intelligent Distributed-drive Electric Vehicle Considering Human Driver’s Reaction,” *Chin. J. Mech. Eng.* 2025, 38: 102. [PDF](/assets/pdf/paper/2025MEAC.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-025-01270-2).
 
 - Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* 2025, 38:30. [PDF](/assets/pdf/paper/Rule-Guidance Reinforcement Learning for Lane Change Decision-making - A Risk Assessment Approach.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-024-01160-z).
@@ -45,8 +47,6 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 - Bo Leng, Ran Yu, **Zhuoren Li\***, et.al, “Integrated Decision-Making and Motion Planning Framework for Autonomous Driving based on Hybrid Model Predictive Control,” *IEEE/ASME Trans. Mechatron.* (under review)
 
-- Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way,” *IEEE Trans. Intell. Transp. Syst.* (under review, R2)
-
 - Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving,” *IEEE Robot. Autom. Lett.* (under review) [arXiv](https://arxiv.org/pdf/2506.23771)
 
 
@@ -58,9 +58,4 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
 <!-- # 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou. -->
+- *2021.06 - 2021.09*, Alibaba, Hangzhou. -->
