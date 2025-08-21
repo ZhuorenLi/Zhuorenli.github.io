@@ -88,7 +88,7 @@ More details can be found in our recent paper "Risk-Aware Reinforcement Learning
 
 
 ### **Publications:**
-1. Ruolin Yang, **Zhuoren Li\***, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way,” *IEEE Trans. Intell. Transp. Syst.*, early access. [PDF](/assets/pdf/paper/2025CHRL.pdf), [DOI](https://ieeexplore.ieee.org/document/11130420) 
+1. Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way,” *IEEE Trans. Intell. Transp. Syst.*, early access. [PDF](/assets/pdf/paper/2025CHRL.pdf), [DOI](https://ieeexplore.ieee.org/document/11130420) 
 2. Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* 2025, 38:30. [PDF](/assets/pdf/paper/Rule-Guidance Reinforcement Learning for Lane Change Decision-making - A Risk Assessment Approach.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-024-01160-z)
 3. **Zhuoren Li**, Lu Xiong, Bo Leng et.al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2023, pp. 1313-1319. [PDF](/assets/pdf/paper/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
 4. R. Yang, **Z. Li**, B. Leng and L. Xiong, "Safe reinforcement learning for autonomous vehicles to make lane-change decisions: Constraint based on Incomplete Information Game Theory," *Int. Conf. Veh. Control and Intelligence (CVCI)*, 2023.
