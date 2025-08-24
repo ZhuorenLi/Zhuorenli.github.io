@@ -45,7 +45,7 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
         
 - **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
-- Bo Leng, Ran Yu, **Zhuoren Li\***, et.al, “Seamless and Safe Overtaking Maneuvers: Integrated Motion Planning Based on Hybrid Model Predictive Control,” *IEEE Trans. Ind. Electron.* (under review)
+- Bo Leng, Ran Yu, **Zhuoren Li\***, et.al, “Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control,” *IEEE Trans. Ind. Electron.* (under review)
 
 - Guizhe Jin, **Zhuoren Li**, Bo Leng, et al., “Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving,” *IEEE Robot. Autom. Lett.* (under review) [arXiv](https://arxiv.org/pdf/2506.23771)
 
