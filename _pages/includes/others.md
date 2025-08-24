@@ -3,6 +3,8 @@
 
 ## ***Journal & Conference Publications:***
 
+- Ran Yu, **Zhuoren Li\***, Lu Xiong, et al. "Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections," *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. [PDF](/assets/pdf/paper/HOCBF-RL.pdf) [arXiv](https://arxiv.org/abs/2505.19939).
+
 - Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, “Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way,” *IEEE Trans. Intell. Transp. Syst.*, early access. [PDF](/assets/pdf/paper/2025CHRL.pdf), [DOI](https://ieeexplore.ieee.org/document/11130420) 
 
 - Bo Leng, Lu Xiong, **Zhuoren Li\***, et.al. “Multi-mode Evasion Assistance Control Method for Intelligent Distributed-drive Electric Vehicle Considering Human Driver’s Reaction,” *Chin. J. Mech. Eng.* 2025, 38: 102. [PDF](/assets/pdf/paper/2025MEAC.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-025-01270-2).
@@ -33,15 +35,13 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
-- Ran Yu, **Zhuoren Li\***, Lu Xiong, et al. "Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections," *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (under review) [PDF](/assets/pdf/paper/HOCBF-RL.pdf) [arXiv](https://arxiv.org/abs/2505.19939).
-
 - Zhiwen Chen, Bo Leng, **Zhuoren Li**, et al., "HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving". [arXiv](https://arxiv.org/abs/2505.15793)
 
 - **Zhuoren Li**, Guizhe Jin, Ran Yu, Zhiwen Chen, Wei Han, Nan Li, Lu Xiong, Bo Leng, Jia Hu, Ilya Kolmanovsky and Dimitar Filev, “A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective.” *IEEE Trans. Neural Netw. Learn. Sys.* (under review). [PDF](/assets/pdf/paper/2503.23650v1.pdf), [arXiv](https://arxiv.org/abs/2503.23650).
 
-- Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving,"  *IEEE Trans. Neural Netw. Learn. Sys.* (under review). [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
+- Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, "Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving,"  *IEEE Trans. Neural Netw. Learn. Sys.* (under review, R2). [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), [arXiv](https://arxiv.org/abs/2501.08096).
 
-- Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *Eng. Appl. Artif. Intel* (under review) [PDF](/assets/pdf/paper/SRL2024In.pdf), [arXiv](http://arxiv.org/abs/2503.19690).
+- Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, “Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection,” *Eng. Appl. Artif. Intel* (under review, R2) [PDF](/assets/pdf/paper/SRL2024In.pdf), [arXiv](http://arxiv.org/abs/2503.19690).
         
 - **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
