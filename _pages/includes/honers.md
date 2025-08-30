@@ -21,3 +21,9 @@
 * Outstanding Individual Award, Institute of Intelligent Vehicles, Tongji University, 2022, 2023, 2024. (TOP5%)
 
 * World Artificial Intelligence Conference AI Driving Simulation Competition, Third Prize in the University Challenge Competition, 2022. 
+  
+* DongHua Test Scholarship of Science and Technology Innovation at Tongji University, 2016.
+  
+* Third Prize, The 2nd Shanghai Uniersity  Student Mechanics Competition, 2016.
+* 
+* Second Prize, The 32nd National University Student Physics Competition, Non-Physics Major Group.
