@@ -75,7 +75,7 @@ Responsibilities include:
 
 #### 🎙 Autonomous Valet Parking (AVP) System Development
 
-###### Nanchang Automotive Institute of Intelligence & New Energy, Sep. 2021 – Mar. 2023, - Role: Student Technical Director
+###### Nanchang Automotive Institute of Intelligence & New Energy, Feb. 2021 – Mar. 2023, - Role: Student Technical Director
 
 Responsibilities include:
  - Comprehensive task management.
