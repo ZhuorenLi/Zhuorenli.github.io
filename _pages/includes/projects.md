@@ -64,7 +64,7 @@ Responsibilities include:
 
 #### 🎙 Research on Vehicle-Road Cooperative Control for Intelligent Public Transportation System
 
-###### Shanghai Research Institute for Intelligent Autonomous Systems, Sept. 2021 – Aug. 2022, - Role: Student Technical Director
+###### Shanghai Research Institute for Intelligent Autonomous Systems, Sept. 2021 – Aug. 2023, - Role: Student Technical Director
 
 Responsibilities include:
 
@@ -75,7 +75,7 @@ Responsibilities include:
 
 #### 🎙 Autonomous Valet Parking (AVP) System Development
 
-###### Nanchang Automotive Institute of Intelligence & New Energy, Feb. 2021 – Mar. 2023, - Role: Student Technical Director
+###### Nanchang Automotive Institute of Intelligence & New Energy, Feb. 2021 – Mar. 2022, - Role: Student Technical Director
 
 Responsibilities include:
  - Comprehensive task management.
