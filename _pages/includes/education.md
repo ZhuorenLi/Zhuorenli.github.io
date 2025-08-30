@@ -34,4 +34,4 @@ Ph.D. Student in Vehicle Engineering, Tongji University, 2019-now.
 
 B.E. in Engineering Mechanics, Tongji University, 2014-2019.
 
-German Enhancement Class in School of Foreign Studies, Tongji University, 2017-2018.
+Minor, Department of German, Tongji University, 2017-2018.
