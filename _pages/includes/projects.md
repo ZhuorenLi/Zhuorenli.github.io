@@ -53,7 +53,7 @@ Responsibilities include:
 
 #### 🎙 Binary Mixed Traffic Behavior Characteristics and Collaborative Paradigm
 
-###### Science and Technology Commission of Shanghai, Aug. 2021 – Jul. 2024, - Role: Core Participant
+###### Shanghai Science and Technology Commission, Aug. 2021 – Jul. 2024, - Role: Core Participant
 
 Responsibilities include:
 
