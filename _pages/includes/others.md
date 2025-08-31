@@ -9,11 +9,11 @@
 
 - Bo Leng, **Zhuoren Li\***, Ming Liu, Ce Yang, Yi Luo, Amir Khajepour and Lu Xiong. “Multi-mode Evasion Assistance Control Method for Intelligent Distributed-drive Electric Vehicle Considering Human Driver’s Reaction,” *Chin. J. Mech. Eng.* 2025, 38: 102. [PDF](/assets/pdf/paper/2025MEAC.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-025-01270-2).
 
-- Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* 2025, 38:30. [PDF](/assets/pdf/paper/Rule-Guidance Reinforcement Learning for Lane Change Decision-making - A Risk Assessment Approach.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-024-01160-z).
+- Lu Xiong, **Zhuoren Li**, Danyang Zhong, et al. "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," *Chin. J. Mech. Eng.* 2025, 38:30. [PDF](/assets/pdf/paper/Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach.pdf), [DOI](https://cjme.springeropen.com/articles/10.1186/s10033-024-01160-z).
+
+- **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving," *SAE Int. J. Adv. & Curr. Prac. in Mobility*, 2025, 7(4):1562-1572. [PDF](/assets/pdf/paper/2024SAEICVS 2024-01-7035.pdf), [DOI](https://doi.org/10.4271/2024-01-7035).
 
 - **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Zhiqiang Fu, "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," *IEEE Trans. Intell. Transp. Syst.*, vol. 25, no. 6, pp. 5718-5732, June 2024. [PDF](/assets/pdf/paper/An_Integrated_of_Decision_Making_and_Motion_Planning_Framework_for_Enhanced_Oscillation-Free_Capability.pdf), [DOI](https://ieeexplore.ieee.org/document/10328568).
-
-- **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving," *SAE Intell. Connected Veh. Symposium (SAE ICVS)*, 2024. [PDF](/assets/pdf/paper/2024SAEICVS 2024-01-7035.pdf), [DOI](https://www.sae.org/publications/technical-papers/content/2024-01-7035/).
 
 - Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action,” *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024, pp. 3020-3026. [PDF](/assets/pdf/paper/ITSC2024.pdf), [DOI](https://ieeexplore.ieee.org/document/10920092).
 
