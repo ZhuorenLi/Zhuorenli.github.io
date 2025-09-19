@@ -8,7 +8,7 @@
 
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
-
+• <em>2025.09</em> : 🎉🎉 One Paper titled "HCRMP: An LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving" was accepted by <em> 39th Adv. Neural Inf. Proces. Syst (NeurIPS) </em>, 2025. <br>
 • <em>2025.08</em> : 🎉🎉 One Paper titled "Convergent Harmonious Reinforcement Learning—Lane Changing in a More Traffic Friendly Way" was accepted by <em>IEEE Trans. Intell. Transp. Syst. </em> (Q1, if 8.4)<br>
 • <em>2025.06</em> : 🎉🎉 One Paper titled "Multi-mode Evasion Assistance Control Method for Intelligent Distributed-drive Electric Vehicle Considering Human Driver’s Reaction" was accepted by <em>Chin. J. Mech. Eng.</em> (Q1, if 4.5) <br>
 • <em>2025.03</em> : 🎉🎉 One Paper "Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach," was accepted by <em>Chin. J. Mech. Eng.</em> (Q1, if 4.5)<br>
