@@ -14,7 +14,7 @@ profile:
     <p> <small>Ph.D. Student<small></p>
     <p> <small>Institute of Intelligent Vehicles</p>
     <p> <small>School of Automotive Studies Tongji University, Shanghai, China<small></p>
-    <ul class="network-icon" aria-hidden="true"><li><a href="https://www.linkedin.com/in/zhuorenli-patrick/" target="_blank" rel="noopener" aria-label="linkedin"><i class="fab fa-linkedin big-icon"></i></a></li><li><a href="https://scholar.google.com.hk/citations?user=5HSKGBUAAAAJ" target="_blank" rel="noopener" aria-label="google-scholar"><i class="fab fa-google-scholar big-icon"></i></a></li><li><a href="/uploads/Zhuoren_Li_CV.pdf" aria-label="cv"><i class="ai ai-cv big-icon"></i></a></li></ul>
+    <ul class="network-icon" aria-hidden="true"><li><a href="https://www.linkedin.com/in/zhuorenli-patrick/" target="_blank" rel="noopener" aria-label="linkedin"><i class="fab fa-linkedin big-icon"></i></a></li><li><a href="https://scholar.google.com.hk/citations?user=5HSKGBUAAAAJ" target="_blank" rel="noopener" aria-label="google-scholar"><i class="fab fa-google-scholar big-icon"></i></a></li><li><a href="/assets/pdf/Zhuoren_Li_CV.pdf" aria-label="cv"><i class="ai ai-cv big-icon"></i></a></li></ul>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -58,10 +58,6 @@ I plan to complete my Ph.D. in Dec. 2025, and I'm looking for a post-doctoral po
 {% include_relative includes/news.md %}
 
 {% include_relative includes/researches.md %}
-
-
-
-
 
 {% include_relative includes/others.md %}
 
