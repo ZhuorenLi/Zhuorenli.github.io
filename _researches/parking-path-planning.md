@@ -43,4 +43,4 @@ Autonomous Parking of Tiev-Plus vehicl for China Future Challenge of Intelligent
 
 ### **Publications:**
 1. [Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization](https://saemobilus.sae.org/papers/path-planning-method-perpendicular-parking-based-vehicle-kinematics-model-using-mpc-optimization-2022-01-0085), **Zhuoren Li**, Lu Xiong, Bo Leng, Zhiqiang Fu, Dequan Zeng, Yiming Hu and Mingzhi Wu, *SAE Technical Papers*, 2022-01-0085, 2022.
-2. 
+2. Efficient and Flexible Autonomous Parking Planning based on Adaptive Multi-Step Motion Primitives, Bo Leng, Zhiwen Chen, **Zhuoren Li\*** and Lu Xiong, *Journal of Intelligent Transportation Systems*. (under review, R1)
