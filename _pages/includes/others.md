@@ -4,7 +4,7 @@
 ## ***Journal & Conference Publications:***
 
 - HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving, Zhiwen Chen, **Zhuoren Li**, Bo Leng, Hanming Deng, Guizhe Jin, Ran Yu and Huanxi Wen, *Adv. Neural Inf. Process. Syst.*, 2025. (accept) [arXiv](https://arxiv.org/abs/2505.15793)
-- 
+ 
 - Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections, Ran Yu, **Zhuoren Li\***, Lu Xiong, Wei Han and Bo Leng, *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (accept) [arXiv](https://arxiv.org/abs/2505.19939)
 
 - [Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way](https://ieeexplore.ieee.org/document/11130420), Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, *IEEE Trans. Intell. Transp. Syst.*, early access, 2025. 
