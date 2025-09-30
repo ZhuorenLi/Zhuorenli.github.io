@@ -3,9 +3,9 @@
 
 ## ***Journal & Conference Publications:***
 
-- <u>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</u>, Zhiwen Chen, **Zhuoren Li**, Bo Leng, Hanming Deng, Guizhe Jin, Ran Yu and Huanxi Wen, *Adv. Neural Inf. Process. Syst.*, 2025. (accept) [arXiv](https://arxiv.org/abs/2505.15793)
+- [<u>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</u>](https://arxiv.org/abs/2505.15793), Zhiwen Chen, **Zhuoren Li**, Bo Leng, Hanming Deng, Guizhe Jin, Ran Yu and Huanxi Wen, *Adv. Neural Inf. Process. Syst.*, 2025. (accept)
  
-- <u>Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections</u>, Ran Yu, **Zhuoren Li\***, Lu Xiong, Wei Han and Bo Leng, *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (accept) [arXiv](https://arxiv.org/abs/2505.19939)
+- [<u>Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections</u>](https://arxiv.org/abs/2505.19939), Ran Yu, **Zhuoren Li\***, Lu Xiong, Wei Han and Bo Leng, *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (accept)
 
 - [<u>Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way</u>](https://ieeexplore.ieee.org/document/11130420), Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, *IEEE Trans. Intell. Transp. Syst.*, early access, 2025. 
 <!-- - [PDF](/assets/pdf/paper/2025CHRL.pdf) -->
@@ -62,7 +62,7 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 - Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection, Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, *Eng. Appl. Artif. Intel* (under review, R1) [arXiv](http://arxiv.org/abs/2503.19690).
 <!-- - [PDF](/assets/pdf/paper/SRL2024In.pdf),  -->
         
-- Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (under review)
+- Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (under review, R1)
 
 - Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control, Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.* (under review)
 

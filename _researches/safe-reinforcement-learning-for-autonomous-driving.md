@@ -95,5 +95,6 @@ More details can be found in our recent paper "Risk-Aware Reinforcement Learning
 
 
 ### **Submitted/In Progress:**
-1. Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection, Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, *Eng. Appl. Artif. Intel* (under review, R1) [arXiv](http://arxiv.org/abs/2503.19690).
-2. Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (under review)
+1. Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (under review, R1)
+2. [<u>Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections</u>](https://arxiv.org/abs/2505.19939), Ran Yu, **Zhuoren Li\***, Lu Xiong, Wei Han and Bo Leng, *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (accept)
+3. [<u>Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint</u>](https://ieeexplore.ieee.org/document/10422331),  **Zhuoren Li**, Lu Xiong, Bo Leng, Puhang Xu and Zhiqiang Fu, in *Proc. IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2023, pp. 1313-1319.
