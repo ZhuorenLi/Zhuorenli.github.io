@@ -45,7 +45,7 @@
 - [<u>Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve</u>](https://www.sciencedirect.com/science/article/pii/S2405896321015421?via%3Dihub), **Zhuoren Li**, Lu Xiong, Dequan Zeng, Zhiqiang Fu, Bo Leng and Fengwu Shan, *IFAC-PapersOnLine*, 2021, 54(10): 51-58.
 <!-- -  [PDF](/assets/pdf/paper/2021B-splineCurvePlanner.pdf), [DOI].  -->
 
-- Dequan Zeng, Zhuoping Yu, Lu Xiong, Zhigiang Fu, **Zhuoren Li**, Peizhi Zhang, Bo Leng and Fengwu Shan,[<u>HFO-LADRC lateral motion controller for autonomous road sweeper</u>](https://www.mdpi.com/1424-8220/20/8/2274), *Sensors*, 20(8), 2274. 
+- [<u>HFO-LADRC lateral motion controller for autonomous road sweeper</u>](https://www.mdpi.com/1424-8220/20/8/2274), Dequan Zeng, Zhuoping Yu, Lu Xiong, Zhigiang Fu, **Zhuoren Li**, Peizhi Zhang, Bo Leng and Fengwu Shan,*Sensors*, 20(8), 2274. 
 <!-- - [PDF](/assets/pdf/paperHFO-LADRC.pdf), [DOI]. -->
 
 More publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=5HSKGBUAAAAJ&hl=en).
