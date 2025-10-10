@@ -54,12 +54,14 @@ The proposed hierarchical Reinforcement Learning method with hybrid Parameterize
 
 
 ### **Publications:**
-1. **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving," *SAE Int. J. Adv. & Curr. Prac. in Mobility*, 2025, 7(4):1562-1572. [PDF](/assets/pdf/paper/2024SAEICVS 2024-01-7035.pdf), [DOI](https://doi.org/10.4271/2024-01-7035).
+1. - [Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving](https://arxiv.org/pdf/2506.23771), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, 2025. (accept) 
+
+2. **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving," *SAE Int. J. Adv. & Curr. Prac. in Mobility*, 2025, 7(4):1562-1572. [PDF](/assets/pdf/paper/2024SAEICVS 2024-01-7035.pdf), [DOI](https://doi.org/10.4271/2024-01-7035).
    
-2. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024, pp. 3020-3026.
+3. Guizhe Jin, **Zhuoren Li**, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024, pp. 3020-3026.
 
 ### **Submitted/In Progress:**
 1. Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving, Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.* (under review, R1). [arXiv](https://arxiv.org/abs/2501.08096).
 
 
-2. Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving, Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.* (under review) [arXiv](https://arxiv.org/pdf/2506.23771)
+

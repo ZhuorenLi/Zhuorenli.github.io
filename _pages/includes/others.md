@@ -2,6 +2,7 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
+- [Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving](https://arxiv.org/pdf/2506.23771), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, 2025. (accept) 
 
 - [<u>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</u>](https://arxiv.org/abs/2505.15793), Zhiwen Chen, **Zhuoren Li**, Bo Leng, Hanming Deng, Guizhe Jin, Ran Yu and Huanxi Wen, *Adv. Neural Inf. Process. Syst.*, 2025. (accept)
  
@@ -65,8 +66,6 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 - Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (under review, R1)
 
 - Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control, Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.* (under review)
-
-- Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving, Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.* (under review) [arXiv](https://arxiv.org/pdf/2506.23771)
   
 - Efficient and Flexible Autonomous Parking Planning based on Adaptive Multi-Step Motion Primitives, Bo Leng, Zhiwen Chen, **Zhuoren Li\*** and Lu Xiong, *Journal of Intelligent Transportation Systems*. (under review, R1)
 

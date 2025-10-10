@@ -8,6 +8,7 @@
 
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
+• <em>2025.10</em> : 🎉🎉 One Paper on Multi-timescale Hierarchical RL for Autonomous Driving has been accepted by <em> IEEE Robot. Autom. Lett. </em>. <br>
 • <em>2025.09</em> : 🎉🎉 One Paper on LLM-enhanced RL for Autonomous Driving has been accepted by <em> 39th Annu. Conf. Neural Inf. Proces. Syst (NeurIPS) </em>, 2025. <br>
 • <em>2025.08</em> : 🎉🎉 One Paper on Convergent Harmonious RL for Autonomous Lane Changing has been accepted by <em>IEEE Trans. Intell. Transp. Syst. </em> (Q1, if 8.4)<br>
 • <em>2025.06</em> : 🎉🎉 One Paper on Multi-mode Evasion Assistance Control considering Human Driver’s Reaction has been accepted by <em>Chin. J. Mech. Eng.</em> (Q1, if 4.5) <br>
