@@ -2,7 +2,7 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
-- [Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving](https://arxiv.org/pdf/2506.23771), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, 2025. (accept) 
+- [<u>Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving</u>](https://arxiv.org/pdf/2506.23771), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, 2025. (accept)
 
 - [<u>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</u>](https://arxiv.org/abs/2505.15793), Zhiwen Chen, **Zhuoren Li**, Bo Leng, Hanming Deng, Guizhe Jin, Ran Yu and Huanxi Wen, *Adv. Neural Inf. Process. Syst.*, 2025. (accept)
  
