@@ -54,7 +54,7 @@ The proposed hierarchical Reinforcement Learning method with hybrid Parameterize
 
 
 ### **Publications:**
-1. [<u>Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving</u>](https://ieeexplore.ieee.org/document/11206491), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, early access, 2025.
+1. [<u>Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving</u>](https://ieeexplore.ieee.org/document/11206491), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, vol. 10, no. 12, pp. 12772-12779, 2025.
 
 2. **Zhuoren Li**, Guizhe Jin, Ran Yu, Bo Leng and Lu Xiong, “Interaction-Aware Deep Reinforcement Learning Approach Based on Hybrid Parameterized Action Space for Autonomous Driving," *SAE Int. J. Adv. & Curr. Prac. in Mobility*, 2025, 7(4):1562-1572. [PDF](/assets/pdf/paper/2024SAEICVS 2024-01-7035.pdf), [DOI](https://doi.org/10.4271/2024-01-7035).
    
