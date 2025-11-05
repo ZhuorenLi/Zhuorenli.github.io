@@ -5,8 +5,8 @@
 - [<u>Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving</u>](https://ieeexplore.ieee.org/document/11206491), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, vol. 10, no. 12, pp. 12772-12779, 2025.
 <!-- (https://arxiv.org/pdf/2506.23771) -->
 
-- [<u>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</u>](https://arxiv.org/abs/2505.15793), Zhiwen Chen, Hanming Deng, **Zhuoren Li\***, Huanxi Wen,  Guizhe Jin, Ran Yu and **Bo Leng\***, *Adv. Neural Inf. Process. Syst.*, 2025. (accept)
- 
+- [<u>HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving</u>](https://zhuorenli.github.io/assets/pdf/paper/2025NIPS.pdf), Zhiwen Chen, Hanming Deng, **Zhuoren Li\***, Huanxi Wen,  Guizhe Jin, Ran Yu and Bo Leng\*, *Adv. Neural Inf. Process. Syst.*, 2025. (accept)
+ <!-- (https://arxiv.org/abs/2505.15793) -->
 - [<u>Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections</u>](https://arxiv.org/abs/2505.19939), Ran Yu, **Zhuoren Li\***, Lu Xiong, Wei Han and Bo Leng, *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (accept)
 
 - [<u>Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way</u>](https://ieeexplore.ieee.org/document/11130420), Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, *IEEE Trans. Intell. Transp. Syst.*, early access, 2025. 
