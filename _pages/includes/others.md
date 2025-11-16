@@ -9,7 +9,7 @@
  <!-- (https://arxiv.org/abs/2505.15793) -->
 - [<u>Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections</u>](https://arxiv.org/abs/2505.19939), Ran Yu, **Zhuoren Li\***, Lu Xiong, Wei Han and Bo Leng, *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (accept)
 
-- [<u>Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way</u>](https://ieeexplore.ieee.org/document/11130420), Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, *IEEE Trans. Intell. Transp. Syst.*, early access, 2025. 
+- [<u>Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way</u>](https://ieeexplore.ieee.org/document/11130420), Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, *IEEE Trans. Intell. Transp. Syst.*, vol. 26, no. 11, pp. 20334-20347, 2025. 
 <!-- - [PDF](/assets/pdf/paper/2025CHRL.pdf) -->
 
 - [<u>Multi-mode Evasion Assistance Control Method for Intelligent Distributed-drive Electric Vehicle Considering Human Driver’s Reaction</u>](https://cjme.springeropen.com/articles/10.1186/s10033-025-01270-2), Bo Leng, **Zhuoren Li\***, Ming Liu, Ce Yang, Yi Luo, Amir Khajepour and Lu Xiong, *Chin. J. Mech. Eng.* 2025, 38: 102. 
