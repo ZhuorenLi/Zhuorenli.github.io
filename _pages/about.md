@@ -29,14 +29,14 @@ social: true # includes social icons at the bottom of the page
 <!-- 
 👋 Greetings! I am Zhuoren Li. I'm a Ph.D. student at Tongji University, affiliated with the Institute of Intelligent Vehicles(TJU-IIV). I'm directly pursuing my Ph.D. degree under the supervision of [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1153/6446.htm) after obtaining my bachelor's degree in Engineering Mechanics from Tongji University. My co-advisors are [Prof. Jia Hu](https://scholar.google.com.hk/citations?user=a34GvQoAAAAJ) and [Associate Prof. Bo Leng](https://auto.tongji.edu.cn/info/1169/9473.htm). -->
 
-👋 Greetings! I am Zhuoren Li. I'm a Ph.D. student at Tongji University, affiliated with the Institute of Intelligent Vehicles(TJU-IIV). I'm directly pursuing my Ph.D. degree under the supervision of Prof. [Lu Xiong](https://auto.tongji.edu.cn/info/1153/6446.htm) after obtaining my bachelor's degree in Engineering Mechanics from Tongji University. I am also privileged to be co-advised by Prof. [Jia Hu](https://scholar.google.com/citations?hl=en&user=a34GvQoAAAAJ), Prof. [Nan Li](https://scholar.google.com/citations?hl=en&user=_JnfJFoAAAAJ) and Assoc. Prof. Bo Leng.
+👋 Greetings! I am Zhuoren Li. I received my Ph.D. from Tongji University affiliated with the Institute of Intelligent Vehicles(TJU-IIV), under the supervision of Prof. [Lu Xiong](https://auto.tongji.edu.cn/info/1153/6446.htm) after obtaining my bachelor's degree in Engineering Mechanics from Tongji University. I am also privileged to be co-advised by Prof. [Jia Hu](https://scholar.google.com/citations?hl=en&user=a34GvQoAAAAJ), Prof. [Nan Li](https://scholar.google.com/citations?hl=en&user=_JnfJFoAAAAJ) and Assoc. Prof. Bo Leng.
 
 
-🚀 Since 2021, I have been serving as the Student Director of the Intelligent Decision Research Group at TJU-IIV. I lead the team in research on safe reinforcement learning, interactive decision-making, optimization-based motion planning and trajectory planning on unstructured roads. Additionally, I have participated in 4 engineering projects, 7 government projects, and I have also written more than 8 funding/grant proposals as a key participant.
+🚀 I have been serving as the Student Director of the Intelligent Decision and Control Research Group at TJU-IIV. I lead the team in research on safe reinforcement learning, interactive decision-making, optimization-based motion planning and trajectory planning on unstructured roads. Additionally, I have been involved in 4 engineering projects, 7 government projects, and contributed as a key participant to more than 10 funding proposals.
 
-📈 My current research interest includes Safe Reinforcement Learning for Motion Planning of Autonomous Vehicles, Interactive Decision-Making, and Smooth Motion Planning, etc. 
+📈 My current research interest includes Safe Reinforcement Learning for Motion Planning of Autonomous Vehicles, Interactive Decision-Making, and Fundation Model Enhanced E2E Autonomous Driving, etc. 
 
-I plan to complete my Ph.D. in Dec. 2025, and I'm looking for a post-doctoral position.
+I am currently seeking a postdoctoral position and would welcome opportunities to collaborate on research at the intersection of learning, planning, and safety.
 
 
 
