@@ -38,6 +38,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently seeking a postdoctoral position and would welcome opportunities to collaborate on research at the intersection of learning, planning, and safety.
 
+📬 I’m always open to collaborations—please feel free to reach out!
 
 
 
