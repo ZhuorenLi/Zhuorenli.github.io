@@ -75,7 +75,7 @@ It is able to perform smoothly driving maneuvers such as cornering and overtakin
 ![png](/assets/img/researches/optimization/MPC2.png)
 
 ### **Publications:**
-1. Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control, Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.* (under review)
+1. [<u>Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control</u>](https://zhuorenli.github.io/assets/pdf/paper/2026HMPC.pdf), Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.*, 2026. (accepted)
 2. [Multi-mode Evasion Assistance Control Method for Intelligent Distributed-drive Electric Vehicle Considering Human Driver’s Reaction](https://cjme.springeropen.com/articles/10.1186/s10033-025-01270-2), Bo Leng, **Zhuoren Li\***, Ming Liu, Ce Yang, Yi Luo, Amir Khajepour and Lu Xiong, *Chin. J. Mech. Eng.* 2025, 38: 102. 
 3. [An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability](https://ieeexplore.ieee.org/document/10328568), **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Zhiqiang Fu, *IEEE Trans. Intell. Transp. Syst.*, vol. 25, no. 6, pp. 5718-5732, June 2024. 
 4. [A Seamless Motion Planning Integrating Maneuver Decision Based on Hybrid Model Predictive Control](https://ieeexplore.ieee.org/document/10422155), Chengen Tu, **Zhuoren Li**, Bo Leng and Lu Xiong, in *Proc. IEEE Int. Intell. Transp. Syst.*, 2023, pp. 3228-3234.

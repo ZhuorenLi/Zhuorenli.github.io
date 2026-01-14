@@ -2,6 +2,8 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
+- [ <u>Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control</u>](https://zhuorenli.github.io/assets/pdf/paper/2026HMPC.pdf), Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.*, 2026. (accepted)
+
 - [<u>Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving</u>](https://ieeexplore.ieee.org/document/11206491), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, vol. 10, no. 12, pp. 12772-12779, 2025.
 <!-- (https://arxiv.org/pdf/2506.23771) -->
 
@@ -65,8 +67,6 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 <!-- - [PDF](/assets/pdf/paper/SRL2024In.pdf),  -->
         
 - Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (under review, R1)
-
-- Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control, Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.* (under review)
   
 - Efficient and Flexible Autonomous Parking Planning based on Adaptive Multi-Step Motion Primitives, Bo Leng, Zhiwen Chen, **Zhuoren Li\*** and Lu Xiong, *Journal of Intelligent Transportation Systems*. (under review, R1)
 
