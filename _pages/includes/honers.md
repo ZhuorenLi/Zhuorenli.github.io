@@ -25,5 +25,5 @@
 * DongHua Test Scholarship of Science and Technology Innovation at Tongji University, 2016.
   
 * Third Prize, The 2nd Shanghai Uniersity  Student Mechanics Competition, 2016.
-* 
-* Second Prize, The 32nd National University Student Physics Competition, Non-Physics Major Group.
+  
+* Second Prize, The 32nd National University Student Physics Competition, Non-Physics Major Group, 2015.
