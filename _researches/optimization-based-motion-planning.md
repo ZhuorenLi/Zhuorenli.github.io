@@ -46,22 +46,32 @@ Real Test with our autonomous electric vehicle platform:
 
 
 ### **Mixed Integer Programming with Hybrid Model Predictive Control**
-Collaborating student: *Encheng Tu, Graduated Student*.
 
-#### **Motivation**
-- Try to directly integrate the semantic behavior decision, trajectroy planning and motion control into a single optimal problem.
+#### 🔎 **Motivation**
+We aim to develop an integrated decision making and motion planning framework that seamlessly achieves efficent and safe driving behaviors with interpretable and verifiable optimization.
 
-An integrated motion planning scheme for autonomous vehicles, which incorporates integer lane state and its logical constraints into the Model Predictive Control (MPC) framework, forming a hybrid MPC-based motion planning framework. 
+#### 🧠 **Highlights**
 
-#### **Highlights**
-- Motion planning without semantic decisions: a hybrid model predictive control (HMPC)-based seamless motion planner.
-- Able to integrate with external semantic decisions to achieve comprehensive optimization based on the external decisions.
+![png](/assets/img/researches/optimization/HMPC_frame.png)
+
+• 𝐇𝐲𝐛𝐫𝐢𝐝 𝐌𝐨𝐝𝐞𝐥 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐯𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤
+We formulate a unified optimization problem that integrates discrete logic decision-making and continuous motion planning using Mixed Logical Dynamic (MLD) modeling. 
+
+• 𝐀𝐬𝐲𝐦𝐦𝐞𝐭𝐫𝐢𝐜 𝐑𝐢𝐬𝐤 𝐅𝐢𝐞𝐥𝐝 𝐆𝐮𝐢𝐝𝐚𝐧𝐜𝐞
+We propose a novel asymmetric risk field that captures human driver attention characteristics, leading to more reasonable and human-like risk assessment to guide intrinsic discrete behavior optimzation.
 
 #### **Some Results**
 It allows for more efficient lane changing maneuvers in some scenarios wiith more rational lane-changing timing.
-![png](/assets/img/researches/optimization/HMPCresult.png)
 
-### **Trajectory Planning and Tracking Control Based on Hierarchical MPC**
+Numerical Simulation Results in Matlab:
+![png](/assets/img/researches/optimization/HMPCresult_matlab.png)
+
+Validation on NuPlan Benchmark:
+![png](/assets/img/researches/optimization/HMPCresult_table.png)
+
+Test on Real-Warld Vehicles:
+![png](/assets/img/researches/optimization/HMPCresult_real.png)
+<!-- ### **Trajectory Planning and Tracking Control Based on Hierarchical MPC**
 
 A unified framework of trajectory planning and tracking control for autonomous overtaking, which is formed by hierarchical model predictive control, optimizing the lateral and longitudinal movement in two successive steps.
 
@@ -72,7 +82,7 @@ A unified framework of trajectory planning and tracking control for autonomous o
 #### **Some Reults**
 It is able to perform smoothly driving maneuvers such as cornering and overtaking in CARLA simulation.
 ![png](/assets/img/researches/optimization/MPC1.png)
-![png](/assets/img/researches/optimization/MPC2.png)
+![png](/assets/img/researches/optimization/MPC2.png) -->
 
 ### **Publications:**
 1. [Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control](https://ieeexplore.ieee.org/document/11390053), Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.*, 2026, early access.
