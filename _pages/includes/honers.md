@@ -10,12 +10,20 @@
 - *2015.10* National Scholarship (Undergraduate) (Top 1%) -->
 
 
-* SAE International Outstanding Technical Paper Award, SAE ICVS 2024.
+* SAE International Outstanding Technical Paper Award, SAE ICVS 2024. 
         
-* High-Level Academic Poster Award, China SAE Doctoral Student Academic Forum, 2024.
+* High-Level Academic Poster Award, China SAE Doctoral Student Academic Forum, 2024. (TOP10%)
 
-* Outstanding Doctoral Student Scholarship, Tongji University, 2024.
+* Outstanding Doctoral Student Scholarship, Tongji University, 2024. 
 
-* Vehicle-road-cloud Integrated Autonomous Driving Challenge, Third Prize, 2024.
+* Vehicle-road-cloud Integrated Autonomous Driving Challenge, Third Prize, 2024. 
+  
+* Outstanding Individual Award, Institute of Intelligent Vehicles, Tongji University, 2022, 2023, 2024. 
 
-* World Artificial Intelligence Conference AI Driving Simulation Competition, Third Prize in the University Challenge Competition, 2022
+* World Artificial Intelligence Conference AI Driving Simulation Competition, Third Prize in the University Challenge Competition, 2022. 
+  
+* DongHua Test Scholarship of Science and Technology Innovation at Tongji University, 2016.
+  
+* Third Prize, The 2nd Shanghai Uniersity  Student Mechanics Competition, 2016.
+  
+* Second Prize, The 32nd National University Student Physics Competition, Non-Physics Major Group, 2015.

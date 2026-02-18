@@ -8,6 +8,19 @@
 
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
-
-{% include news.liquid %}
+• <em>2026.01</em> : 🎉🎉 One Paper on Hybrid MPC-based Motion Planning for Autonomous Driving has been accepted by <em> IEEE Trans. Ind. Electron. </em>. (Q1, if 7.2) <br>
+• <em>2025.10</em> : 🎉🎉 One Paper on Multi-timescale Hierarchical RL for Autonomous Driving has been accepted by <em> IEEE Robot. Autom. Lett. </em>. (Q1, if 5.3) <br>
+• <em>2025.09</em> : 🎉🎉 One Paper on LLM-enhanced RL for Autonomous Driving has been accepted by <em> 39th Annu. Conf. Neural Inf. Proces. Syst (NeurIPS) </em>, 2025. <br>
+• <em>2025.08</em> : 🎉🎉 One Paper on Convergent Harmonious RL for Autonomous Lane Changing has been accepted by <em>IEEE Trans. Intell. Transp. Syst. </em> (Q1, if 8.4)<br>
+• <em>2025.06</em> : 🎉🎉 One Paper on Multi-mode Evasion Assistance Control considering Human Driver’s Reaction has been accepted by <em>Chin. J. Mech. Eng.</em> (Q1, if 4.5) <br>
+• <em>2025.03</em> : 🎉🎉 One Paper on safe RL for Lane Change Decision-Making has been accepted by <em>Chin. J. Mech. Eng.</em> (Q1, if 4.5)<br>
+• <em>2024.10</em> : 🎉🎉 One Paper on Interaction-Aware RL won the SAE International Outstanding Technical Paper Award in <em>SAE ICVS 2024.</em><br>
+• <em>2024.07</em> : 🎉🎉 One Paper on Hybrid Parameterized Action Space-based RL for Autonomous Driving has been accepted by <em>IEEE Intell. Transp. Syst. Conf. (ITSC) 2024.</em><br>
+• <em>2023.10</em> : 🎉🎉 One Paper on POMDP-based Motion Planning for Enhanced Oscillation-Free Capability has been accepted by <em>IEEE Trans. Intell. Transp. Syst. </em> (Q1, if 8.4)<br>
+• <em>2023.07</em> : 🎉🎉 Two Paper on safe RL Decision-Making, and Hybrid MPC-based Motion Planning have been accepted by <em>IEEE Intell. Transp. Syst. Conf. (ITSC) 2023.</em><br>
   </div>
+
+<!-- • <em>2024.10</em> : 🎉🎉 One Paper won the SAE International Outstanding Technical Paper Award in <em>SAE ICVS 2024.</em><br>
+• <em>2024.09</em> : 🎉🎉 One Paper was presented in <em>IEEE Intelligent Transportation Systems Conference (ITSC) 2024.</em><br>
+• <em>2023.10</em> : 🎉🎉 One Paper was accepted by <em>IEEE Transactions on Intelligent Transportation Systems. </em> (Q1, if 8.4)<br>
+• <em>2023.09</em> : 🎉🎉 Two Paper were presented in <em>IEEE Intelligent Transportation Systems Conference (ITSC) 2023.</em><br> -->
