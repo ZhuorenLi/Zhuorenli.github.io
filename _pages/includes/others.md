@@ -2,6 +2,8 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
+- Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (accepted)
+
 - [ <u>Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control</u>](https://ieeexplore.ieee.org/document/11390053), Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.*, 2026, early access.
 
 <!-- https://zhuorenli.github.io/assets/pdf/paper/2026HMPC.pdf -->
@@ -65,9 +67,7 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 <!-- - [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), -->
 
 - Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection, Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, *Eng. Appl. Artif. Intel* (under review, R1) [arXiv](http://arxiv.org/abs/2503.19690).
-<!-- - [PDF](/assets/pdf/paper/SRL2024In.pdf),  -->
-        
-- Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (under review, R1)
+<!-- - [PDF](/assets/pdf/paper/SRL2024In.pdf),  -->     
   
 - Efficient and Flexible Autonomous Parking Planning based on Adaptive Multi-Step Motion Primitives, Bo Leng, Zhiwen Chen, **Zhuoren Li\*** and Lu Xiong, *Journal of Intelligent Transportation Systems*. (under review, R1)
 
