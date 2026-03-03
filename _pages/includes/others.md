@@ -60,6 +60,8 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
 
+- An interactive enhanced driving dataset for autonomous driving, Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong, *Sci. Data* (under review). [arXiv](https://arxiv.org/abs/2602.20575).
+  
 - A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective, **Zhuoren Li**, Guizhe Jin, Ran Yu, Zhiwen Chen, Wei Han, Nan Li, Lu Xiong, Bo Leng, Jia Hu, Ilya Kolmanovsky and Dimitar Filev, *IEEE Trans. Neural Netw. Learn. Sys.* (under review). [arXiv](https://arxiv.org/abs/2503.23650).
 <!-- - [PDF](/assets/pdf/paper/2503.23650v1.pdf),  -->
 
