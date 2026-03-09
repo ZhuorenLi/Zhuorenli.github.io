@@ -59,6 +59,9 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
+- Dequan Zeng, Zhizhao Ni, **Zhuoren Li\***, et al., “Physics-Informed Residual Reinforcement Learning via Expert Prior Knowledge for Safe and Efficient Autonomous Merging,” *Neurocomputing.* (under review)
+
+- Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints, Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (under review). [arXiv](https://arxiv.org/abs/2603.05842).
 
 - An interactive enhanced driving dataset for autonomous driving, Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong, *Sci. Data* (under review). [arXiv](https://arxiv.org/abs/2602.20575).
   
