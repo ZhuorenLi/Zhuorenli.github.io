@@ -2,6 +2,9 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
+- [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://arxiv.org/abs/2501.08096), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, 2026. (accept) 
+<!-- - [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), -->
+
 - Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (accepted)
 
 - [ <u>Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control</u>](https://ieeexplore.ieee.org/document/11390053), Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.*, 2026, early access.
@@ -67,9 +70,6 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
   
 - A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective, **Zhuoren Li**, Guizhe Jin, Ran Yu, Zhiwen Chen, Wei Han, Nan Li, Lu Xiong, Bo Leng, Jia Hu, Ilya Kolmanovsky and Dimitar Filev, *IEEE Trans. Neural Netw. Learn. Sys.* (under review). [arXiv](https://arxiv.org/abs/2503.23650).
 <!-- - [PDF](/assets/pdf/paper/2503.23650v1.pdf),  -->
-
-- Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving, Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.* (under review, R1). [arXiv](https://arxiv.org/abs/2501.08096).
-<!-- - [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), -->
 
 - Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection, Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, *Eng. Appl. Artif. Intel* (under review, R1) [arXiv](http://arxiv.org/abs/2503.19690).
 <!-- - [PDF](/assets/pdf/paper/SRL2024In.pdf),  -->     
