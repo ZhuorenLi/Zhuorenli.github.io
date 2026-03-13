@@ -5,7 +5,7 @@
 - [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://arxiv.org/abs/2501.08096), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, 2026. (accept) 
 <!-- - [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf), -->
 
-- Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better, **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.* (accepted)
+- [ <u>Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better</u>](https://ieeexplore.ieee.org/document/11433454), **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.*, 2026, early access.
 
 - [ <u>Seamless Overtaking Maneuvers for Automated Driving: Integrated Motion Planning Based on Hybrid Model Predictive Control</u>](https://ieeexplore.ieee.org/document/11390053), Bo Leng, Ran Yu, Chengen Tu, Lu Xiong, Arno Eichberger and **Zhuoren Li\***, *IEEE Trans. Ind. Electron.*, 2026, early access.
 
