@@ -10,7 +10,7 @@
 <div class="news" style="margin-top:50px;margin-bottom:20px">
 • <em>2026.03</em> : 🎉🎉 One Paper on Hybrid-action-based safe RL for Autonomous Driving has been accepted by <em> IEEE Trans. Netw. Learn. Sys. </em> (Q1, if 8.9)<br>
 • <em>2026.03</em> : 🎉🎉 One Paper on Safe RL Motion Planning for Autonomous Driving has been accepted by <em> IEEE Trans. Intell. Syst. </em> (Q1, if 8.4)<br>
-• <em>2026.01</em> : 🎉🎉 One Paper on Hybrid MPC-based Motion Planning for Autonomous Driving has been accepted by <em> IEEE Trans. Ind. Electron. </em>. (Q1, if 7.2) <br>
+• <em>2026.02</em> : 🎉🎉 One Paper on Hybrid MPC-based Motion Planning for Autonomous Driving has been accepted by <em> IEEE Trans. Ind. Electron. </em>. (Q1, if 7.2) <br>
 • <em>2025.10</em> : 🎉🎉 One Paper on Multi-timescale Hierarchical RL for Autonomous Driving has been accepted by <em> IEEE Robot. Autom. Lett. </em>. (Q1, if 5.3) <br>
 • <em>2025.09</em> : 🎉🎉 One Paper on LLM-enhanced RL for Autonomous Driving has been accepted by <em> 39th Annu. Conf. Neural Inf. Proces. Syst (NeurIPS) </em>, 2025. <br>
 • <em>2025.08</em> : 🎉🎉 One Paper on Convergent Harmonious RL for Autonomous Lane Changing has been accepted by <em>IEEE Trans. Intell. Transp. Syst. </em> (Q1, if 8.4)<br>
