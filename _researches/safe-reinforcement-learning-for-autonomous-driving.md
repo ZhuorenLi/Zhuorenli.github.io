@@ -88,7 +88,7 @@ More details can be found in our recent paper "Risk-Aware Reinforcement Learning
 
 
 ### **Publications:**
-1.[ <u>Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better</u>](https://ieeexplore.ieee.org/document/11433454), **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.*, 2026, early access.
+1. [ <u>Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better</u>](https://ieeexplore.ieee.org/document/11433454), **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.*, 2026, early access.
 2. Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections, Ran Yu, **Zhuoren Li\***, Lu Xiong, Wei Han and Bo Leng, *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2025. (accept) [arXiv](https://arxiv.org/abs/2505.19939)
 3. [<u>Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way</u>](https://ieeexplore.ieee.org/document/11130420), Ruolin Yang, **Zhuoren Li**, Bo Leng, Lu Xiong and Xin Xia, *IEEE Trans. Intell. Transp. Syst.*, vol. 26, no. 11, pp. 20334-20347, 2025. 
 4. [Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach](https://jme.springeropen.com/articles/10.1186/s10033-024-01160-z), Lu Xiong, **Zhuoren Li**, Danyang Zhong, Puhang Xu and Chen Tang, *Chin. J. Mech. Eng.* 2025, 38:30. 
