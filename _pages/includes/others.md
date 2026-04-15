@@ -63,6 +63,8 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
+- FeaXDrive: Feasibility-aware Trajectory-Centric Diffusion Planning for End-to-End Autonomous Driving, Baoyun Wang<sup>†</sup>, **Zhuoren Li<sup>†</sup>**, Ming Liu, Xinrui Zhang, Bo Leng and Lu Xiong, *Transp. Res. Part C Emerg. Technol.* (under review). [arXiv](https://arxiv.org/abs/2604.12656).
+
 - Dequan Zeng, Zhizhao Ni, **Zhuoren Li\***, et al., “Physics-Informed Residual Reinforcement Learning via Expert Prior Knowledge for Safe and Efficient Autonomous Merging,” *Neurocomputing.* (under review)
 
 - Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints, Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (under review). [arXiv](https://arxiv.org/abs/2603.05842).
