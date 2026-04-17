@@ -2,6 +2,8 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
+- [ <u> 5G communication delay dataset for cloud-based vehicle planning and control</u>](https://www.nature.com/articles/s41597-026-07239-7), Xinrui Zhang, Lu Xiong, Peizhi Zhang, Haojie Feng, Junpeng Huang, Xiurong Wang, Mengjie Tian, **Zhuoren Li** and Dongxiao Yin, *Sci. Data*, 2026.
+
 - [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://ieeexplore.ieee.org/abstract/document/11457031), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, 2026, early access.
 <!-- - [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf),(https://arxiv.org/abs/2501.08096) --> 
 

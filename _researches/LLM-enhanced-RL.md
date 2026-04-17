@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LLM enhanced RL for Autonomous Driving"
-description: "Enhancing scenario understanding ablility for RL agent using LLM while suppressing the hallucinatory problems. (Dec 2024 - now)"
+description: "Enhancing scenario understanding ablility for RL agent using LLM while suppressing the hallucinatory problems. (Dec 2024 - June 2025)"
 img: /assets/img/researches/LLM/featured.png
 importance: 2
 category: work
