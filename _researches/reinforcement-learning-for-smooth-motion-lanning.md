@@ -3,7 +3,7 @@ layout: page
 title: "Control Granularity Research of RL-based Motion Planning"
 description: "using skill primitive and parameterized action with sufficient control granularity for flexible and smooth driving. (Dec 2023 - Mar 2025)"
 img: assets/img/researches/CGRL/featured.png
-importance: 3
+importance: 4
 category: work
 related_publications: false
 horizontal: true

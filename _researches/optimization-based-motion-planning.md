@@ -3,7 +3,7 @@ layout: page
 title: "Optimization-based Motion Planning"
 description: "Smooth, stable and fast motion planning based on optimization-based approaches. (Sep 2021 - Jun 2023)"
 img: /assets/img/researches/optimization/featured.png
-importance: 4
+importance: 5
 category: work
 related_publications: false
 horizontal: true
