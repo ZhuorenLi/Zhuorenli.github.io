@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Feasibility-aware Trajectory-Centric Diffusion Planning for E2E AD"
-description: "Provde more reliable and physically grounded E2E planning module via physics informed diffusion."
+description: "Provde more reliable and physically grounded E2E planning module via physics informed diffusion. (Nov 2025 - Apr 2026)"
 img: assets/img/researches/FeaXDrive2026/architecture.png  # Optional: path to thumbnail image
 importance: 1  # Lower number = higher priority in sorting
 category: work
