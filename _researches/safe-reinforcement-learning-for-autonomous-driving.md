@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Risk-Aware Safe RL for Autonomous Driving"
-description: "Enhancing the safety performance of RL-based motion planning by prior-knowledge designed safety constraints. (From Sept 2022 to now)"
+description: "Enhancing the safety performance of RL-based motion planning by prior-knowledge designed safety constraints. (Sept 2022 to now)"
 img: /assets/img/researches/safe/HOCBF-RLframe.png
 importance: 2
 category: work
