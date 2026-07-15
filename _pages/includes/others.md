@@ -2,7 +2,7 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
-- Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints, Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (accept). [arXiv](https://arxiv.org/abs/2603.05842).
+- [ <u> Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints </u>](https://arxiv.org/abs/2603.05842), Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (accept).
 
 - [ <u> 5G communication delay dataset for cloud-based vehicle planning and control</u>](https://www.nature.com/articles/s41597-026-07239-7), Xinrui Zhang, Lu Xiong, Peizhi Zhang, Haojie Feng, Junpeng Huang, Xiurong Wang, Mengjie Tian, **Zhuoren Li** and Dongxiao Yin, *Sci. Data*, 13: 878, 2026.
 
