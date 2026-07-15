@@ -2,6 +2,8 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
+- Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints, Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (accept). [arXiv](https://arxiv.org/abs/2603.05842).
+
 - [ <u> 5G communication delay dataset for cloud-based vehicle planning and control</u>](https://www.nature.com/articles/s41597-026-07239-7), Xinrui Zhang, Lu Xiong, Peizhi Zhang, Haojie Feng, Junpeng Huang, Xiurong Wang, Mengjie Tian, **Zhuoren Li** and Dongxiao Yin, *Sci. Data*, 13: 878, 2026.
 
 - [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://ieeexplore.ieee.org/abstract/document/11457031), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, 2026, early access.
@@ -65,11 +67,11 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 ## ***Submitted & Work in Progress:***
 <!-- 💬 -->
+- Comparison-Based Ordinal Learning for Proactive Driving Risk Assessment, **Zhuoren Li<sup>†</sup>**, Yi Zhong<sup>†</sup>, Weiqi Zhang, Xinrui Zhang, Lu Xiong, Chongfeng Wei and Bo Leng, *Accident Analysis \& Prevention* (under review). [arXiv](https://arxiv.org/abs/2607.11128).
+
 - FeaXDrive: Feasibility-aware Trajectory-Centric Diffusion Planning for End-to-End Autonomous Driving, Baoyun Wang<sup>†</sup>, **Zhuoren Li<sup>†</sup>**, Ming Liu, Xinrui Zhang, Bo Leng and Lu Xiong, *Transp. Res. Part C Emerg. Technol.* (under review). [arXiv](https://arxiv.org/abs/2604.12656).
 
 - Dequan Zeng, Zhizhao Ni, **Zhuoren Li\***, et al., “Physics-Informed Residual Reinforcement Learning via Expert Prior Knowledge for Safe and Efficient Autonomous Merging,” *Neurocomputing.* (under review)
-
-- Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints, Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (under review). [arXiv](https://arxiv.org/abs/2603.05842).
 
 - An interactive enhanced driving dataset for autonomous driving, Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong, *Sci. Data* (under review). [arXiv](https://arxiv.org/abs/2602.20575).
   
