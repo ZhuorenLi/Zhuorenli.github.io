@@ -83,6 +83,8 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
   
 - Efficient and Flexible Autonomous Parking Planning based on Adaptive Multi-Step Motion Primitives, Bo Leng, Zhiwen Chen, **Zhuoren Li\*** and Lu Xiong, *Journal of Intelligent Transportation Systems*. (under review, R1)
 
+- Hierarchical Sideslip and Road Bank Angle Estimation Using Image-Quality–Aware Visual Integration and Online Tire Model Learning, Letian Gao, Liang Shao, Xoapxin Bao, **Zhuoren Li\***, Hailong Huang, Lu Xiong and Jiawei Xiang, *IEEE Trans. Veh. Technol.* (under review).
+
 
 
 
