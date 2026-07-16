@@ -8,7 +8,8 @@
 
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
-• <em>2026.07</em> : 🎉🎉 One Paper on Expert Knowledge-driven RL for autonomous racing has been accepted by <em> Green Energy Intell. Transp. </em> (Q1, if 21.5)<br>
+• <em>2026.07</em> : 🎉🎉 One Paper on Interactive enhanced autonomous driving benchmark has been accepted by <em> Scientific Data</em> (Q1, if 6.9)<br>
+• <em>2026.07</em> : 🎉🎉 One Paper on Expert Knowledge-driven RL control for autonomous racing has been accepted by <em> Green Energy Intell. Transp. </em> (Q1, if 21.5)<br>
 • <em>2026.04</em> : 🎉🎉 One Paper on 5G communication delay dataset for cloud‑based vehicle control has been accepted by <em> Scientific Data </em> (Q1, if 6.9)<br>
 • <em>2026.03</em> : 🎉🎉 One Paper on Hybrid-action-based multiobjective RL for Autonomous Driving has been accepted by <em> IEEE Trans. Netw. Learn. Sys. </em> (Q1, if 8.9)<br>
 • <em>2026.03</em> : 🎉🎉 One Paper on Safe RL Motion Planning for Autonomous Driving has been accepted by <em> IEEE Trans. Intell. Syst. </em> (Q1, if 8.4)<br>
