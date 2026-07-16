@@ -4,6 +4,8 @@
 ## ***Journal & Conference Publications:***
 - [ <u> Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints </u>](https://arxiv.org/abs/2603.05842), Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (accept).
 
+- [ <u> An interactive enhanced driving dataset for autonomous driving, Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong</u>](https://arxiv.org/abs/2602.20575), *Sci. Data* (accept). 
+
 - [ <u> 5G communication delay dataset for cloud-based vehicle planning and control</u>](https://www.nature.com/articles/s41597-026-07239-7), Xinrui Zhang, Lu Xiong, Peizhi Zhang, Haojie Feng, Junpeng Huang, Xiurong Wang, Mengjie Tian, **Zhuoren Li** and Dongxiao Yin, *Sci. Data*, 13: 878, 2026.
 
 - [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://ieeexplore.ieee.org/abstract/document/11457031), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, 2026, early access.
@@ -72,10 +74,8 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 - FeaXDrive: Feasibility-aware Trajectory-Centric Diffusion Planning for End-to-End Autonomous Driving, Baoyun Wang<sup>†</sup>, **Zhuoren Li<sup>†</sup>**, Ming Liu, Xinrui Zhang, Bo Leng and Lu Xiong, *Transp. Res. Part C Emerg. Technol.* (under review). [arXiv](https://arxiv.org/abs/2604.12656).
 
 - Dequan Zeng, Zhizhao Ni, **Zhuoren Li\***, et al., “Physics-Informed Residual Reinforcement Learning via Expert Prior Knowledge for Safe and Efficient Autonomous Merging,” *Neurocomputing.* (under review)
-
-- An interactive enhanced driving dataset for autonomous driving, Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong, *Sci. Data* (under review). [arXiv](https://arxiv.org/abs/2602.20575).
   
-- A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective, **Zhuoren Li**, Guizhe Jin, Ran Yu, Zhiwen Chen, Wei Han, Nan Li, Lu Xiong, Bo Leng, Jia Hu, Ilya Kolmanovsky and Dimitar Filev, *IEEE Trans. Neural Netw. Learn. Sys.* (under review). [arXiv](https://arxiv.org/abs/2503.23650).
+- A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective, **Zhuoren Li**, Guizhe Jin, Ran Yu, Zhiwen Chen, Wei Han, Nan Li, Lu Xiong, Bo Leng, Jia Hu, Ilya Kolmanovsky and Dimitar Filev, *IEEE Trans. Intell. Transp. Syst.* (under review). [arXiv](https://arxiv.org/abs/2503.23650).
 <!-- - [PDF](/assets/pdf/paper/2503.23650v1.pdf),  -->
 
 - Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection, Bo Leng, Ran Yu, **Zhuoren Li\***, Wei Han, Bo Leng, Lu Xiong and Hailong Huang, *Eng. Appl. Artif. Intel* (under review, R1) [arXiv](http://arxiv.org/abs/2503.19690).
