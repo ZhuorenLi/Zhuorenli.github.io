@@ -3,7 +3,7 @@ layout: page
 title: "Trajectory guidance and Dynamics constraints RL for autonomous racing"
 description: "Expert knowledge-driven RL for high-speed and stable autonomous racing. (Mar 2025 - Mar 2026)"
 img: assets/img/researches/FeaXDrive2026/architecture.png  # Optional: path to thumbnail image
-importance: 7  # Lower number = higher priority in sorting
+importance: 5  # Lower number = higher priority in sorting
 category: work
 related_publications: false
 horizontal: true
