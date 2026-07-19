@@ -2,7 +2,7 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
-- [ <u> Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints </u>](https://arxiv.org/abs/2603.05842), Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (accept).
+- [ <u> Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints </u>](https://www.sciencedirect.com/science/article/pii/S2773153726000642), Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* (accept).
 
 - [ <u> An interactive enhanced driving dataset for autonomous driving, Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong</u>](https://arxiv.org/abs/2602.20575), *Sci. Data* (accept). 
 
