@@ -8,7 +8,7 @@
 
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
-• <em>2026.07</em> : 🎉🎉 One Paper on Physics-informed RL for autonomous driving has been accepted by <em> Neurocomputing</em> (Q1, if 7.0)<br>
+• <em>2026.07</em> : 🎉🎉 One Paper on Physics-informed RL for autonomous driving has been accepted by <em> Neurocomputing</em> (Q1, if 6.7)<br>
 • <em>2026.07</em> : 🎉🎉 One Paper on Interactive enhanced autonomous driving benchmark has been accepted by <em> Scientific Data</em> (Q1, if 6.9)<br>
 • <em>2026.07</em> : 🎉🎉 One Paper on Expert Knowledge-driven RL control for autonomous racing has been accepted by <em> Green Energy Intell. Transp. </em> (Q1, if 21.5)<br>
 • <em>2026.04</em> : 🎉🎉 One Paper on 5G communication delay dataset for cloud‑based vehicle control has been accepted by <em> Scientific Data </em> (Q1, if 6.9)<br>
