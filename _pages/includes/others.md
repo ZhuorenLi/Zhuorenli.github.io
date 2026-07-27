@@ -2,6 +2,8 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
+- [ <u> Physics-Informed Residual Reinforcement Learning via Expert Prior Knowledge for Safe and Efficient Autonomous Merging </u>](), Dequan Zeng, Zhizhao Ni, **Zhuoren Li\***, et al., *Neurocomputing.*. (accept)
+
 - [ <u> Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints </u>](https://www.sciencedirect.com/science/article/pii/S2773153726000642), Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* 100452, 2026.
 
 - [ <u> An interactive enhanced driving dataset for autonomous driving </u>](https://arxiv.org/abs/2602.20575), Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong, *Sci. Data* (accept). 
@@ -72,8 +74,6 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 - Comparison-Based Ordinal Learning for Proactive Driving Risk Assessment, **Zhuoren Li<sup>†</sup>**, Yi Zhong<sup>†</sup>, Weiqi Zhang, Xinrui Zhang, Lu Xiong, Chongfeng Wei and Bo Leng, *Accident Analysis \& Prevention* (under review). [arXiv](https://arxiv.org/abs/2607.11128).
 
 - FeaXDrive: Feasibility-aware Trajectory-Centric Diffusion Planning for End-to-End Autonomous Driving, Baoyun Wang<sup>†</sup>, **Zhuoren Li<sup>†</sup>**, Ming Liu, Xinrui Zhang, Bo Leng and Lu Xiong, *Transp. Res. Part C Emerg. Technol.* (under review). [arXiv](https://arxiv.org/abs/2604.12656).
-
-- Dequan Zeng, Zhizhao Ni, **Zhuoren Li\***, et al., “Physics-Informed Residual Reinforcement Learning via Expert Prior Knowledge for Safe and Efficient Autonomous Merging,” *Neurocomputing.* (under review)
   
 - A Survey of Reinforcement Learning-based Motion planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective, **Zhuoren Li**, Guizhe Jin, Ran Yu, Zhiwen Chen, Wei Han, Nan Li, Lu Xiong, Bo Leng, Jia Hu, Ilya Kolmanovsky and Dimitar Filev, *IEEE Trans. Intell. Transp. Syst.* (under review). [arXiv](https://arxiv.org/abs/2503.23650).
 <!-- - [PDF](/assets/pdf/paper/2503.23650v1.pdf),  -->
