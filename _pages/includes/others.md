@@ -2,7 +2,7 @@
 # 📖 Publications
 
 ## ***Journal & Conference Publications:***
-- [ <u> Physics-Informed Residual Reinforcement Learning via Expert Prior Knowledge for Safe and Efficient Autonomous Merging </u>](), Dequan Zeng, Zhizhao Ni, **Zhuoren Li\***, et al., *Neurocomputing.*. (accept)
+- [ <u> Physics-Informed Residual Reinforcement Learning via Expert Prior Knowledge for Safe and Efficient Autonomous Merging </u>](https://www.sciencedirect.com/science/article/pii/S0925231226020291), Dequan Zeng, Zhizhao Ni, **Zhuoren Li\***, et al., *Neurocomputing.*, 134631, 2026. (accept)
 
 - [ <u> Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints </u>](https://www.sciencedirect.com/science/article/pii/S2773153726000642), Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* 100452, 2026.
 
