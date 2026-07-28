@@ -1,6 +1,6 @@
 
 
-# 📝 Research Experiences 
+# 📝 Research 
 <!-- ## 🎙 Speech Synthesis -->
 
 <!-- pages/research.md -->
