@@ -6,7 +6,7 @@
 
 - [ <u> Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints </u>](https://www.sciencedirect.com/science/article/pii/S2773153726000642), Bo Leng, Weiqi Zhang, **Zhuoren Li\***, Lu Xiong, Guizhe Jin, Ran Yu and Chen Lv, *Green Energy Intell. Transp.* 100452, 2026.
 
-- [ <u> An interactive enhanced driving dataset for autonomous driving </u>](https://arxiv.org/abs/2602.20575), Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong, *Sci. Data* (accept). 
+- [ <u> An interactive enhanced driving dataset for autonomous driving </u>](https://www.nature.com/articles/s41597-026-07929-2), Haojie Feng, Peizhi Zhang, Mengjie Tian, Xinrui Zhang, **Zhuoren Li**, Junpeng Huang, Xiurong Wang, Junfan Zhu, Jianzhou Wang, Dongxiao Yin and Lu Xiong, *Sci. Data*, 2026. 
 
 - [ <u> 5G communication delay dataset for cloud-based vehicle planning and control</u>](https://www.nature.com/articles/s41597-026-07239-7), Xinrui Zhang, Lu Xiong, Peizhi Zhang, Haojie Feng, Junpeng Huang, Xiurong Wang, Mengjie Tian, **Zhuoren Li** and Dongxiao Yin, *Sci. Data*, 13: 878, 2026.
 
