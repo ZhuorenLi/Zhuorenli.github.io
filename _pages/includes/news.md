@@ -13,11 +13,11 @@
 • <em>2026.07</em> : 🎉🎉 One Paper on Expert Knowledge-driven RL control for autonomous racing has been accepted by <em> Green Energy Intell. Transp. </em> (Q1, if 21.5)<br>
 • <em>2026.04</em> : 🎉🎉 One Paper on 5G communication delay dataset for cloud‑based vehicle control has been accepted by <em> Scientific Data </em> (Q1, if 7.2)<br>
 • <em>2026.03</em> : 🎉🎉 One Paper on Hybrid-action-based multiobjective RL for Autonomous Driving has been accepted by <em> IEEE Trans. Netw. Learn. Sys. </em> (Q1, if 8.9)<br>
-• <em>2026.03</em> : 🎉🎉 One Paper on Safe RL Motion Planning for Autonomous Driving has been accepted by <em> IEEE Trans. Intell. Syst. </em> (Q1, if 8.4)<br>
+• <em>2026.03</em> : 🎉🎉 One Paper on Safe RL Motion Planning for Autonomous Driving has been accepted by <em> IEEE Trans. Intell. Syst. </em> (Q1, if 9.1)<br>
 • <em>2026.02</em> : 🎉🎉 One Paper on Hybrid MPC-based Motion Planning for Autonomous Driving has been accepted by <em> IEEE Trans. Ind. Electron. </em>. (Q1, if 7.2) <br>
 • <em>2025.10</em> : 🎉🎉 One Paper on Multi-timescale Hierarchical RL for Autonomous Driving has been accepted by <em> IEEE Robot. Autom. Lett. </em>. (Q1, if 5.3) <br>
 • <em>2025.09</em> : 🎉🎉 One Paper on LLM-enhanced RL for Autonomous Driving has been accepted by <em> 39th Annu. Conf. Neural Inf. Proces. Syst (NeurIPS) </em>, 2025. <br>
-• <em>2025.08</em> : 🎉🎉 One Paper on Convergent Harmonious RL for Autonomous Lane Changing has been accepted by <em>IEEE Trans. Intell. Transp. Syst. </em> (Q1, if 8.4)<br>
+• <em>2025.08</em> : 🎉🎉 One Paper on Convergent Harmonious RL for Autonomous Lane Changing has been accepted by <em>IEEE Trans. Intell. Transp. Syst. </em> (Q1, if 9.1)<br>
 • <em>2025.06</em> : 🎉🎉 One Paper on Multi-mode Evasion Assistance Control considering Human Driver’s Reaction has been accepted by <em>Chin. J. Mech. Eng.</em> (Q1, if 4.5) <br>
 • <em>2025.03</em> : 🎉🎉 One Paper on safe RL for Lane Change Decision-Making has been accepted by <em>Chin. J. Mech. Eng.</em> (Q1, if 4.5)<br>
 • <em>2024.10</em> : 🎉🎉 One Paper on Interaction-Aware RL won the SAE International Outstanding Technical Paper Award in <em>SAE ICVS 2024.</em><br>
