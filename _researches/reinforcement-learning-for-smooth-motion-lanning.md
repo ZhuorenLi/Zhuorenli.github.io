@@ -55,7 +55,7 @@ The proposed hierarchical Reinforcement Learning method with hybrid Parameterize
 
 ### **Publications:**
 
-1. [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://ieeexplore.ieee.org/abstract/document/11457031), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, 2026, early access.
+1.  [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://ieeexplore.ieee.org/abstract/document/11457031), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, vol. 37, no. 9, pp. 4799-4812, 2026.
    
 2. [<u>Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving</u>](https://ieeexplore.ieee.org/document/11206491), Guizhe Jin, **Zhuoren Li**, Bo Leng, Ran Yu, Lu Xiong and Chen Sun, *IEEE Robot. Autom. Lett.*, vol. 10, no. 12, pp. 12772-12779, 2025.
 

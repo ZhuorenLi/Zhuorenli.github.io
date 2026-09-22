@@ -10,7 +10,7 @@
 
 - [ <u> 5G communication delay dataset for cloud-based vehicle planning and control</u>](https://www.nature.com/articles/s41597-026-07239-7), Xinrui Zhang, Lu Xiong, Peizhi Zhang, Haojie Feng, Junpeng Huang, Xiurong Wang, Mengjie Tian, **Zhuoren Li** and Dongxiao Yin, *Sci. Data*, 13: 878, 2026.
 
-- [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://ieeexplore.ieee.org/abstract/document/11457031), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, 2026, early access.
+- [ <u> Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving</u>](https://ieeexplore.ieee.org/abstract/document/11457031), Guizhe Jin, **Zhuoren Li**, Bo Leng, Wei Han, Lu Xiong and Chen Sun, *IEEE Trans. Neural Netw. Learn. Sys.*, vol. 37, no. 9, pp. 4799-4812, 2026.
 <!-- - [PDF](/assets/pdf/paper/Hybrid_Action_Based_Reinforcement_Learning_for_Multi_Objective_Compatible_Autonomous_Driving.pdf),(https://arxiv.org/abs/2501.08096) --> 
 
 - [ <u>Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better</u>](https://ieeexplore.ieee.org/document/11433454), **Zhuoren Li**, Jia Hu, Bo Leng, Lu Xiong and Puhang Xu, *IEEE Trans. Intell. Transp. Syst.*, vol. 27, no. 5, pp. 5136-5148, 2026.
