@@ -8,6 +8,7 @@
 - *2020.10* Tianzhou Chen Scholarship (Top 1%)
 - *2020.10* National Scholarship (Top 1%)
 - *2015.10* National Scholarship (Undergraduate) (Top 1%) -->
+* China SAE Ph.D. Dissertation Incentive Program, 2026. (top 9 nationwide)
 
 * SAE International Outstanding Technical Paper Award, SAE ICVS 2024. 
         
