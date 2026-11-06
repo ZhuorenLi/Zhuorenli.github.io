@@ -70,7 +70,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2.2"
+          # ruby-version: "3.2.2"  old for Ubuntu 24.04, now is 26.04
+          ruby-version: "3.2"  
           bundler-cache: true
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
