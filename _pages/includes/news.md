@@ -9,6 +9,7 @@
 <!-- pages/news.md -->
 <div class="news" style="margin-top:50px;margin-bottom:20px">
 • <em>2026.11</em> : 🎉🎉 I am honored to have been selected for the 2026 China SAE Ph.D. Dissertation Incentive Program (top 9 nationwide).<br>
+• <em>2026.10</em> : 🎉🎉 One Paper on Contingency overtaking planning for AD has been accepted by <em> Chin. J. Mech. Eng.</em> (Q1, if 5.1)<br>
 • <em>2026.07</em> : 🎉🎉 One Paper on Physics-informed RL for autonomous driving has been accepted by <em> Neurocomputing</em> (Q1, if 6.7)<br>
 • <em>2026.07</em> : 🎉🎉 One Paper on Interactive enhanced autonomous driving benchmark has been accepted by <em> Scientific Data</em> (Q1, if 7.2)<br>
 • <em>2026.07</em> : 🎉🎉 One Paper on Expert Knowledge-driven RL control for autonomous racing has been accepted by <em> Green Energy Intell. Transp. </em> (Q1, if 21.5)<br>
