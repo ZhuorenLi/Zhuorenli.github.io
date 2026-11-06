@@ -9,10 +9,11 @@
 - *2020.10* National Scholarship (Top 1%)
 - *2015.10* National Scholarship (Undergraduate) (Top 1%) -->
 
+* China SAE Ph.D. Dissertation Incentive Program, 2026. (top 9 nationwide)
 
 * SAE International Outstanding Technical Paper Award, SAE ICVS 2024. 
         
-* High-Level Academic Poster Award, China SAE Doctoral Student Academic Forum, 2024. (TOP10%)
+* High-Level Academic Poster Award, China SAE Doctoral Student Academic Forum, 2024. 
 
 * Outstanding Doctoral Student Scholarship, Tongji University, 2024. 
 
